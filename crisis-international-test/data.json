@@ -1,0 +1,1633 @@
+{
+  "version": "2.0",
+  "channel": {
+    "title": "Crisis International",
+    "link": "https://beta.crisisinternational.org",
+    "description": "A comprehensive resource directory and knowledge base for suicidal crises.",
+    "pubDate": "Thu, 27 Jun 2019 14:25:40 +0000",
+    "language": "en-US",
+    "wxr_version": "1.2",
+    "base_site_url": "https://beta.crisisinternational.org",
+    "base_blog_url": "https://beta.crisisinternational.org",
+    "author": {
+      "author_id": "1",
+      "author_login": "misha",
+      "author_email": "misha@remedient.com",
+      "author_display_name": "misha",
+      "author_first_name": "Misha",
+      "author_last_name": "Kessler"
+    },
+    "generator": "https://wordpress.org/?v=5.2.2",
+    "image": {
+      "url": "https://beta.crisisinternational.org/wp-content/uploads/2017/04/cropped-CI-Logomark-Gradient-32x32.png",
+      "title": "Crisis International",
+      "link": "https://beta.crisisinternational.org",
+      "width": "32",
+      "height": "32"
+    },
+    "item": [
+      {
+        "title": "National Suicide Prevention Lifeline",
+        "link": "https://beta.crisisinternational.org/resource/national-suicide-prevention-lifeline/",
+        "pubDate": "Tue, 22 Jan 2019 16:20:47 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29304"
+        },
+        "description": [],
+        "encoded": [
+          "The National Suicide Prevention Lifeline is a national network of local crisis centers that provides free and confidential emotional support to people in suicidal crisis or emotional distress 24 hours a day, 7 days a week. We're committed to improving crisis services and advancing suicide prevention by empowering individuals, advancing professional best practices, and building awareness.",
+          null
+        ],
+        "post_id": "29304",
+        "post_date": "2019-01-22 11:20:47",
+        "post_date_gmt": "2019-01-22 16:20:47",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "national-suicide-prevention-lifeline",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "0",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "list-tags",
+            "nicename": "veterans",
+            "#text": "veterans"
+          },
+          {
+            "domain": "list-tags",
+            "nicename": "accessible",
+            "#text": "accessible"
+          },
+          {
+            "domain": "list-tags",
+            "nicename": "deaf-and-hard-of-hearing",
+            "#text": "deaf and hard of hearing"
+          },
+          {
+            "domain": "list-tags",
+            "nicename": "24-7",
+            "#text": "24/7"
+          },
+          {
+            "domain": "features",
+            "nicename": "accessibility-friendly",
+            "#text": "Accessibility-Friendly"
+          },
+          {
+            "domain": "features",
+            "nicename": "multilingual",
+            "#text": "Multilingual"
+          },
+          {
+            "domain": "location",
+            "nicename": "united-states",
+            "#text": "United States"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "hotlines",
+            "#text": "Hotlines"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "classic-editor-remember",
+            "meta_value": "classic-editor"
+          },
+          {
+            "meta_key": "_edit_last",
+            "meta_value": "1"
+          },
+          {
+            "meta_key": "gallery_image_ids",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_listing-category",
+            "meta_value": "54"
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_features",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_location",
+            "meta_value": "44"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:32:{s:12:\"tagline_text\";s:179:\"The Lifeline provides 24/7, free and confidential support for people in distress, prevention and crisis resources for you or your loved ones, and best practices for professionals.\";s:8:\"gAddress\";s:0:\"\";s:8:\"latitude\";s:0:\"\";s:9:\"longitude\";s:0:\"\";s:6:\"mappin\";s:0:\"\";s:5:\"phone\";s:14:\"1-800-273-8255\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:0:\"\";s:7:\"website\";s:0:\"\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:5:\"video\";s:0:\"\";s:7:\"gallery\";s:0:\"\";s:12:\"price_status\";s:6:\"notsay\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:7:\"Plan_id\";s:1:\"0\";s:11:\"reviews_ids\";s:0:\"\";s:15:\"claimed_section\";s:7:\"claimed\";s:26:\"listings_ads_purchase_date\";s:0:\"\";s:30:\"listings_ads_purchase_packages\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:3:{i:1;s:54:\"What do I do if I have trouble connecting when I call?\";i:2;s:70:\"Is the Lifeline available in other languages for non-English speakers?\";i:3;s:87:\"Can the Lifeline and the Veterans Crisis Line also be reached by dialing 1-800-SUICIDE?\";}s:6:\"faqans\";a:3:{i:1;s:344:\"We work hard to make sure that everyone can reach a crisis center as quickly as possible. If you call 1-800-273-TALK (8255) and are having trouble reaching a crisis worker, please let us know using our Contact Us form (available in the left sidebar). If you are in a medical emergency or suicidal crisis and you cannot connect, please call 911.\";i:2;s:196:\"Yes. The National Suicide Prevention Lifeline has a Spanish Language line at 1-888-628-9454. We also provide the Tele-Interpreters service to our crisis centers, which supports over 150 languages.\";i:3;s:314:\"Yes. All calls from 1-800-SUICIDE have been routed through the Lifeline network since March 2007. Callers to 1-800-SUICIDE are now being routed through the National Suicide Prevention Lifeline's network of over 140 crisis centers across the nation, the same network that responds to 800-273-TALK callers in crisis.\";}}s:14:\"business_hours\";a:7:{s:8:\"Saturday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:11:\"campaign_id\";s:0:\"\";s:14:\"changed_planid\";s:0:\"\";s:19:\"listing_reported_by\";s:0:\"\";s:16:\"listing_reported\";s:0:\"\";s:13:\"business_logo\";s:97:\"https://beta.crisisinternational.org/wp-content/uploads/2019/01/suicide-prevention-lifeline-1.png\";}"
+          },
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:3:{s:9:\"languages\";a:2:{i:0;s:9:\"\nEnglish\";i:1;s:9:\"\nSpanish\";}s:22:\"accessibility-features\";a:2:{i:0;s:27:\"Assistive-Listening Systems\";i:1;s:14:\"Teletype (TTY)\";}s:10:\"lp_feature\";a:2:{i:0;s:3:\"274\";i:1;s:3:\"279\";}}"
+          },
+          {
+            "meta_key": "_yoast_wpseo_content_score",
+            "meta_value": "30"
+          },
+          {
+            "meta_key": "post_views_count",
+            "meta_value": "110"
+          },
+          {
+            "meta_key": "_thumbnail_id",
+            "meta_value": "29380"
+          },
+          {
+            "meta_key": "lp_listing_announcements",
+            "meta_value": "a:1:{i:0;a:9:{s:6:\"annMsg\";s:215:\"We are proud to announce the launch of a new resource, SafeSpace™, a new dashboard filled to the brim with resources, self-help guides, and even simple, fun distractions, should you want them! Check it out today. \";s:5:\"annBT\";s:12:\"Announcement\";s:5:\"annBL\";s:15:\"www.example.com\";s:5:\"annLI\";s:5:\"29304\";s:5:\"annSt\";s:12:\"Announcement\";s:5:\"annTI\";s:24:\"Quick Announcement Test!\";s:7:\"annType\";s:0:\"\";s:5:\"annIC\";s:0:\"\";s:9:\"annStatus\";i:1;}}"
+          },
+          {
+            "meta_key": "_jetpack_related_posts_cache",
+            "meta_value": "a:1:{s:32:\"b5361850c30fd80057e9560a6d0ec27b\";a:2:{s:7:\"expires\";i:1557691194;s:7:\"payload\";a:0:{}}}"
+          }
+        ]
+      },
+      {
+        "title": "Hospital Test",
+        "link": "https://beta.crisisinternational.org/resource/hospital-test/",
+        "pubDate": "Tue, 22 Jan 2019 18:25:43 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29309"
+        },
+        "description": [],
+        "encoded": [
+          null,
+          null
+        ],
+        "post_id": "29309",
+        "post_date": "2019-01-22 13:25:43",
+        "post_date_gmt": "2019-01-22 18:25:43",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "hospital-test",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "5",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "location",
+            "nicename": "united-states",
+            "#text": "United States"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "hospitals",
+            "#text": "Hospitals"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "classic-editor-remember",
+            "meta_value": "classic-editor"
+          },
+          {
+            "meta_key": "_edit_last",
+            "meta_value": "1"
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_listing-category",
+            "meta_value": "59"
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_features",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_location",
+            "meta_value": "44"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:31:{s:12:\"tagline_text\";s:0:\"\";s:8:\"gAddress\";s:17:\"New York, NY, USA\";s:8:\"latitude\";s:10:\"40.7127753\";s:9:\"longitude\";s:11:\"-74.0059728\";s:6:\"mappin\";s:0:\"\";s:5:\"phone\";s:0:\"\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:0:\"\";s:7:\"website\";s:0:\"\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:5:\"video\";s:0:\"\";s:7:\"gallery\";s:0:\"\";s:12:\"price_status\";s:6:\"notsay\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:7:\"Plan_id\";s:1:\"0\";s:11:\"reviews_ids\";s:0:\"\";s:15:\"claimed_section\";s:11:\"not_claimed\";s:26:\"listings_ads_purchase_date\";s:0:\"\";s:30:\"listings_ads_purchase_packages\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:1:{i:1;s:0:\"\";}s:6:\"faqans\";a:1:{i:1;s:0:\"\";}}s:14:\"business_hours\";a:5:{s:6:\"Monday\";a:2:{s:4:\"open\";s:7:\"09:00am\";s:5:\"close\";s:7:\"05:00pm\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:7:\"09:00am\";s:5:\"close\";s:7:\"05:00pm\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:7:\"09:00am\";s:5:\"close\";s:7:\"05:00pm\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:7:\"09:00am\";s:5:\"close\";s:7:\"05:00pm\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:7:\"09:00am\";s:5:\"close\";s:7:\"05:00pm\";}}s:11:\"campaign_id\";s:0:\"\";s:14:\"changed_planid\";s:0:\"\";s:19:\"listing_reported_by\";s:0:\"\";s:16:\"listing_reported\";s:0:\"\";}"
+          },
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_content_score",
+            "meta_value": "30"
+          }
+        ]
+      },
+      {
+        "title": "911",
+        "link": "https://beta.crisisinternational.org/resource/911/",
+        "pubDate": "Tue, 22 Jan 2019 21:34:12 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29320"
+        },
+        "description": [],
+        "encoded": [
+          null,
+          null
+        ],
+        "post_id": "29320",
+        "post_date": "2019-01-22 16:34:12",
+        "post_date_gmt": "2019-01-22 21:34:12",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "911",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "7",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "location",
+            "nicename": "united-states",
+            "#text": "United States"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "general-emergencies",
+            "#text": "General Emergencies"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "classic-editor-remember",
+            "meta_value": "classic-editor"
+          },
+          {
+            "meta_key": "_edit_last",
+            "meta_value": "1"
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_listing-category",
+            "meta_value": "52"
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_features",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_location",
+            "meta_value": "44"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:31:{s:12:\"tagline_text\";s:0:\"\";s:8:\"gAddress\";s:0:\"\";s:8:\"latitude\";s:0:\"\";s:9:\"longitude\";s:0:\"\";s:6:\"mappin\";s:0:\"\";s:5:\"phone\";s:3:\"911\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:0:\"\";s:7:\"website\";s:0:\"\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:5:\"video\";s:0:\"\";s:7:\"gallery\";s:0:\"\";s:12:\"price_status\";s:6:\"notsay\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:7:\"Plan_id\";s:1:\"0\";s:11:\"reviews_ids\";s:0:\"\";s:15:\"claimed_section\";s:7:\"claimed\";s:26:\"listings_ads_purchase_date\";s:0:\"\";s:30:\"listings_ads_purchase_packages\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:1:{i:1;s:0:\"\";}s:6:\"faqans\";a:1:{i:1;s:0:\"\";}}s:14:\"business_hours\";a:7:{s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Saturday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:11:\"campaign_id\";s:0:\"\";s:14:\"changed_planid\";s:0:\"\";s:19:\"listing_reported_by\";s:0:\"\";s:16:\"listing_reported\";s:0:\"\";}"
+          },
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_content_score",
+            "meta_value": "30"
+          },
+          {
+            "meta_key": "post_views_count",
+            "meta_value": "6"
+          }
+        ]
+      },
+      {
+        "title": "Crisis Text Line",
+        "link": "https://beta.crisisinternational.org/resource/crisis-text-line/",
+        "pubDate": "Wed, 20 Feb 2019 17:08:24 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29370"
+        },
+        "description": [],
+        "encoded": [
+          null,
+          null
+        ],
+        "post_id": "29370",
+        "post_date": "2019-02-20 12:08:24",
+        "post_date_gmt": "2019-02-20 17:08:24",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "crisis-text-line",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "3",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "location",
+            "nicename": "united-states",
+            "#text": "United States"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "textlines",
+            "#text": "Textlines"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "classic-editor-remember",
+            "meta_value": "classic-editor"
+          },
+          {
+            "meta_key": "_edit_last",
+            "meta_value": "1"
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_listing-category",
+            "meta_value": "56"
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_features",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_location",
+            "meta_value": "44"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:31:{s:12:\"tagline_text\";s:0:\"\";s:8:\"gAddress\";s:0:\"\";s:8:\"latitude\";s:0:\"\";s:9:\"longitude\";s:0:\"\";s:6:\"mappin\";s:0:\"\";s:5:\"phone\";s:7:\"741-741\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:0:\"\";s:7:\"website\";s:31:\"https://www.crisistextline.org/\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:5:\"video\";s:0:\"\";s:7:\"gallery\";s:0:\"\";s:12:\"price_status\";s:6:\"notsay\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:7:\"Plan_id\";s:1:\"0\";s:11:\"reviews_ids\";s:0:\"\";s:15:\"claimed_section\";s:11:\"not_claimed\";s:26:\"listings_ads_purchase_date\";s:0:\"\";s:30:\"listings_ads_purchase_packages\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:1:{i:1;s:0:\"\";}s:6:\"faqans\";a:1:{i:1;s:0:\"\";}}s:14:\"business_hours\";a:6:{s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:11:\"campaign_id\";s:0:\"\";s:14:\"changed_planid\";s:0:\"\";s:19:\"listing_reported_by\";s:0:\"\";s:16:\"listing_reported\";s:0:\"\";}"
+          },
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:1:{s:9:\"text-line\";s:41:\"<a href=\"sms:741741&body=CIO\">741-741</a>\";}"
+          },
+          {
+            "meta_key": "_yoast_wpseo_content_score",
+            "meta_value": "30"
+          },
+          {
+            "meta_key": "post_views_count",
+            "meta_value": "13"
+          }
+        ]
+      },
+      {
+        "title": "911",
+        "link": "https://beta.crisisinternational.org/resource/911-2/",
+        "pubDate": "Fri, 05 Apr 2019 19:06:56 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29401"
+        },
+        "description": [],
+        "encoded": [
+          "<p>Call 911 if someone is in immediate danger of life-threatening harm to self or others– but please remember that 911 should be the last resort for individuals in suicidal crisis.</p>",
+          null
+        ],
+        "post_id": "29401",
+        "post_date": "2019-04-05 15:06:56",
+        "post_date_gmt": "2019-04-05 19:06:56",
+        "comment_status": "open",
+        "ping_status": "closed",
+        "post_name": "911-2",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "6",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "location",
+            "nicename": "canada",
+            "#text": "Canada"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "general-emergencies",
+            "#text": "General Emergencies"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "listing_plan_data",
+            "meta_value": "a:6:{s:5:\"price\";s:0:\"\";s:4:\"menu\";s:5:\"false\";s:11:\"announcment\";s:5:\"false\";s:5:\"deals\";s:5:\"false\";s:20:\"competitor_campaigns\";s:5:\"false\";s:6:\"events\";s:5:\"false\";}"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:22:{s:14:\"business_hours\";a:7:{s:8:\"Saturday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:12:\"price_status\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:1:{i:1;s:0:\"\";}s:6:\"faqans\";a:1:{i:1;s:0:\"\";}}s:12:\"tagline_text\";s:0:\"\";s:8:\"gAddress\";s:0:\"\";s:8:\"latitude\";s:0:\"\";s:9:\"longitude\";s:0:\"\";s:5:\"phone\";s:3:\"911\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:19:\"misha@remedient.com\";s:7:\"website\";s:0:\"\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:7:\"Plan_id\";s:3:\"120\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:5:\"video\";s:0:\"\";s:15:\"claimed_section\";s:11:\"not_claimed\";}"
+          },
+          {
+            "meta_key": "_wp_old_date",
+            "meta_value": "2019-03-04"
+          }
+        ]
+      },
+      {
+        "title": "National Suicide Prevention Lifeline Chat",
+        "link": "https://beta.crisisinternational.org/resource/national-suicide-prevention-lifeline-chat/",
+        "pubDate": "Thu, 28 Mar 2019 21:51:18 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29415"
+        },
+        "description": [],
+        "encoded": [
+          "<p>The National Suicide Prevention Lifeline is a national network of local crisis centers that provides free and confidential emotional support to people in suicidal crisis or emotional distress 24 hours a day, 7 days a week. We're committed to improving crisis services and advancing suicide prevention by empowering individuals, advancing professional best practices, and building awareness.</p>",
+          null
+        ],
+        "post_id": "29415",
+        "post_date": "2019-03-28 17:51:18",
+        "post_date_gmt": "2019-03-28 21:51:18",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "national-suicide-prevention-lifeline-chat",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "2",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "list-tags",
+            "nicename": "veterans",
+            "#text": "veterans"
+          },
+          {
+            "domain": "list-tags",
+            "nicename": "accessible",
+            "#text": "accessible"
+          },
+          {
+            "domain": "list-tags",
+            "nicename": "deaf-and-hard-of-hearing",
+            "#text": "deaf and hard of hearing"
+          },
+          {
+            "domain": "list-tags",
+            "nicename": "24-7",
+            "#text": "24/7"
+          },
+          {
+            "domain": "location",
+            "nicename": "united-states",
+            "#text": "United States"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "webchats",
+            "#text": "Webchats"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "classic-editor-remember",
+            "meta_value": "classic-editor"
+          },
+          {
+            "meta_key": "gallery_image_ids",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_listing-category",
+            "meta_value": "57"
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_features",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_location",
+            "meta_value": "44"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:32:{s:12:\"tagline_text\";s:179:\"The Lifeline provides 24/7, free and confidential support for people in distress, prevention and crisis resources for you or your loved ones, and best practices for professionals.\";s:8:\"gAddress\";s:0:\"\";s:8:\"latitude\";s:0:\"\";s:9:\"longitude\";s:0:\"\";s:6:\"mappin\";s:0:\"\";s:5:\"phone\";s:0:\"\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:0:\"\";s:7:\"website\";s:43:\"https://suicidepreventionlifeline.org/chat/\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:5:\"video\";s:0:\"\";s:7:\"gallery\";s:0:\"\";s:12:\"price_status\";s:0:\"\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:7:\"Plan_id\";s:4:\"none\";s:11:\"reviews_ids\";s:0:\"\";s:15:\"claimed_section\";s:7:\"claimed\";s:26:\"listings_ads_purchase_date\";s:0:\"\";s:30:\"listings_ads_purchase_packages\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:3:{i:1;s:54:\"What do I do if I have trouble connecting when I call?\";i:2;s:70:\"Is the Lifeline available in other languages for non-English speakers?\";i:3;s:87:\"Can the Lifeline and the Veterans Crisis Line also be reached by dialing 1-800-SUICIDE?\";}s:6:\"faqans\";a:3:{i:1;s:344:\"We work hard to make sure that everyone can reach a crisis center as quickly as possible. If you call 1-800-273-TALK (8255) and are having trouble reaching a crisis worker, please let us know using our Contact Us form (available in the left sidebar). If you are in a medical emergency or suicidal crisis and you cannot connect, please call 911.\";i:2;s:196:\"Yes. The National Suicide Prevention Lifeline has a Spanish Language line at 1-888-628-9454. We also provide the Tele-Interpreters service to our crisis centers, which supports over 150 languages.\";i:3;s:314:\"Yes. All calls from 1-800-SUICIDE have been routed through the Lifeline network since March 2007. Callers to 1-800-SUICIDE are now being routed through the National Suicide Prevention Lifeline's network of over 140 crisis centers across the nation, the same network that responds to 800-273-TALK callers in crisis.\";}}s:14:\"business_hours\";a:7:{s:8:\"Saturday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:11:\"campaign_id\";s:0:\"\";s:14:\"changed_planid\";s:0:\"\";s:19:\"listing_reported_by\";s:1:\"1\";s:16:\"listing_reported\";s:1:\"1\";s:13:\"business_logo\";s:97:\"https://beta.crisisinternational.org/wp-content/uploads/2019/01/suicide-prevention-lifeline-1.png\";}"
+          },
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:2:{s:9:\"languages\";a:2:{i:0;s:9:\"\nEnglish\";i:1;s:9:\"\nSpanish\";}s:22:\"accessibility-features\";a:2:{i:0;s:27:\"Assistive-Listening Systems\";i:1;s:14:\"Teletype (TTY)\";}}"
+          },
+          {
+            "meta_key": "_yoast_wpseo_content_score",
+            "meta_value": "30"
+          },
+          {
+            "meta_key": "post_views_count",
+            "meta_value": "68"
+          },
+          {
+            "meta_key": "_thumbnail_id",
+            "meta_value": "29380"
+          },
+          {
+            "meta_key": "lp_listing_announcements",
+            "meta_value": "a:1:{i:0;a:9:{s:6:\"annMsg\";s:215:\"We are proud to announce the launch of a new resource, SafeSpace™, a new dashboard filled to the brim with resources, self-help guides, and even simple, fun distractions, should you want them! Check it out today. \";s:5:\"annBT\";s:12:\"Announcement\";s:5:\"annBL\";s:15:\"www.example.com\";s:5:\"annLI\";s:5:\"29304\";s:5:\"annSt\";s:12:\"Announcement\";s:5:\"annTI\";s:24:\"Quick Announcement Test!\";s:7:\"annType\";s:0:\"\";s:5:\"annIC\";s:0:\"\";s:9:\"annStatus\";i:1;}}"
+          },
+          {
+            "meta_key": "_dp_original",
+            "meta_value": "29304"
+          },
+          {
+            "meta_key": "_edit_last",
+            "meta_value": "1"
+          },
+          {
+            "meta_key": "_wp_old_slug",
+            "meta_value": "national-suicide-prevention-lifeline"
+          },
+          {
+            "meta_key": "_wp_old_slug",
+            "meta_value": "national-suicide-prevention-lifeline-2"
+          }
+        ]
+      },
+      {
+        "title": "Canada Suicide Prevention Services Hotline",
+        "link": "https://beta.crisisinternational.org/resource/canada-suicide-prevention-services-hotline/",
+        "pubDate": "Fri, 05 Apr 2019 19:06:56 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29453"
+        },
+        "description": [],
+        "encoded": [
+          "<p>Crisis Services Canada (CSC) is a collaboration of distress and crisis centres from across Canada, offering Canada’s first nationally available, regionally delivered suicide prevention service.</p><p>Canada Suicide Prevention Service (CSPS) is available to anyone thinking about or affected by suicide. Call us toll-free anytime at 1.833.456.4566 or text us at 45645 between 4pm-12am ET.</p>",
+          null
+        ],
+        "post_id": "29453",
+        "post_date": "2019-04-05 15:06:56",
+        "post_date_gmt": "2019-04-05 19:06:56",
+        "comment_status": "open",
+        "ping_status": "closed",
+        "post_name": "canada-suicide-prevention-services-hotline",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "1",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "listing-category",
+            "nicename": "hotlines",
+            "#text": "Hotlines"
+          },
+          {
+            "domain": "location",
+            "nicename": "canada",
+            "#text": "Canada"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:1:{s:9:\"languages\";a:2:{i:0;s:9:\"\nEnglish\";i:1;s:8:\"\nFrench\";}}"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:22:{s:14:\"business_hours\";a:7:{s:8:\"Saturday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:12:\"price_status\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:1:{i:1;s:0:\"\";}s:6:\"faqans\";a:1:{i:1;s:0:\"\";}}s:12:\"tagline_text\";s:187:\"Asking for help can be hard. That’s why we offer a safe place to talk - any time, in your own way. If you are thinking about suicide, you don’t have to face it alone. Reach out today.\";s:8:\"gAddress\";s:0:\"\";s:8:\"latitude\";s:0:\"\";s:9:\"longitude\";s:0:\"\";s:5:\"phone\";s:14:\"1-833-456-4566\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:0:\"\";s:7:\"website\";s:0:\"\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:7:\"Plan_id\";s:4:\"none\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:5:\"video\";s:0:\"\";s:15:\"claimed_section\";s:11:\"not_claimed\";}"
+          },
+          {
+            "meta_key": "post_views_count",
+            "meta_value": "6"
+          }
+        ]
+      },
+      {
+        "title": "Canada Suicide Prevention Services Textline",
+        "link": "https://beta.crisisinternational.org/resource/canada-suicide-prevention-services-textline/",
+        "pubDate": "Fri, 05 Apr 2019 19:06:56 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29454"
+        },
+        "description": [],
+        "encoded": [
+          "<p>Crisis Services Canada (CSC) is a collaboration of distress and crisis centres from across Canada, offering Canada’s first nationally available, regionally delivered suicide prevention service.</p><p>Canada Suicide Prevention Service (CSPS) is available to anyone thinking about or affected by suicide. Call us toll-free anytime at 1.833.456.4566 or text us at 45645 between 4pm-12am ET.</p>",
+          null
+        ],
+        "post_id": "29454",
+        "post_date": "2019-04-05 15:06:56",
+        "post_date_gmt": "2019-04-05 19:06:56",
+        "comment_status": "open",
+        "ping_status": "closed",
+        "post_name": "canada-suicide-prevention-services-textline",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "4",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "location",
+            "nicename": "canada",
+            "#text": "Canada"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "textlines",
+            "#text": "Textlines"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:1:{s:9:\"languages\";a:2:{i:0;s:9:\"\nEnglish\";i:1;s:8:\"\nFrench\";}}"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:22:{s:14:\"business_hours\";a:6:{s:14:\"Monday~Tuesday\";a:2:{s:4:\"open\";s:7:\"04:00pm\";s:5:\"close\";s:7:\"12:00am\";}s:17:\"Tuesday~Wednesday\";a:2:{s:4:\"open\";s:7:\"04:00pm\";s:5:\"close\";s:7:\"12:00am\";}s:18:\"Wednesday~Thursday\";a:2:{s:4:\"open\";s:7:\"04:00pm\";s:5:\"close\";s:7:\"12:00am\";}s:15:\"Thursday~Friday\";a:2:{s:4:\"open\";s:7:\"04:00pm\";s:5:\"close\";s:7:\"12:00am\";}s:15:\"Friday~Saturday\";a:2:{s:4:\"open\";s:7:\"04:00pm\";s:5:\"close\";s:7:\"12:00am\";}s:15:\"Saturday~Sunday\";a:2:{s:4:\"open\";s:7:\"04:00pm\";s:5:\"close\";s:7:\"12:00am\";}}s:12:\"price_status\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:1:{i:1;s:0:\"\";}s:6:\"faqans\";a:1:{i:1;s:0:\"\";}}s:12:\"tagline_text\";s:187:\"Asking for help can be hard. That’s why we offer a safe place to talk - any time, in your own way. If you are thinking about suicide, you don’t have to face it alone. Reach out today.\";s:8:\"gAddress\";s:0:\"\";s:8:\"latitude\";s:0:\"\";s:9:\"longitude\";s:0:\"\";s:5:\"phone\";s:5:\"45645\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:0:\"\";s:7:\"website\";s:0:\"\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:7:\"Plan_id\";s:4:\"none\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:5:\"video\";s:0:\"\";s:15:\"claimed_section\";s:11:\"not_claimed\";}"
+          },
+          {
+            "meta_key": "post_views_count",
+            "meta_value": "0"
+          }
+        ]
+      },
+      {
+        "title": "2nd Story Peer Respite House",
+        "link": "https://beta.crisisinternational.org/resource/2nd-story-peer-respite-house/",
+        "pubDate": "Wed, 22 May 2019 19:15:48 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29720"
+        },
+        "description": [],
+        "encoded": [
+          "<em>Second Story is not a substitute for psychiatric hospitalization.</em>\n\nSecond Story is a six-bed house which serves as a respite and a voluntary opportunity for individuals to learn to use relationships to move out of old roles and patterns. Staffed by “peers,” (people with lived experience of mood swings, consuming fears, voices, visions, . . .) who have learned to be with some discomfort, the household provides an opportunity to experience what change feels like, and to learn new responses through relationships with each other. With the expectation that everyone is capable and inherently knows what they need, both paid staff and guests create a space for those qualities to surface. Along with creating a home, we share stories to connect and understand each other’s experiences, gently challenging ourselves to listen to the untold story. The hope is not to rebuild a culture of illness, but instead generate some sparkling moments of connection and trust, lessons which will spill over into the future.\n\nSecond Story is not a substitute for psychiatric hospitalization. Those who are drawn to the program develop, with staff, ahead of time, a plan for dealing with feelings and behaviors that in the past have led to inpatient stays. The first contact with staff is the beginning of using different views, working together to figure out what might be different. The summary of this meeting is kept on file until a time comes when a potential guest wants to stay at Second Story. The plan is updated and used as a guide to get good results from the time together at Second Story.\n\nSecond Story offers a maximum stay of 13 days in a home environment, and provides guests with opportunities to identify and plan for changes they feel will benefit them once they have returned home. All former guests are offered ongoing telephone support, and are welcome to visit when they need encouragement from their peers and Second Story staff. Program participants also have opportunities to enroll in Intentional Peer Support training and learn to be of assistance to others.\n<div>\n\nReferrals to Second Story must be coordinated with the Santa Cruz County Behavioral Health system of care. Please call the County Behavioral Health line at (800) 952-2335 to get started.\n\n</div>",
+          null
+        ],
+        "post_id": "29720",
+        "post_date": "2019-05-22 15:15:48",
+        "post_date_gmt": "2019-05-22 19:15:48",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "2nd-story-peer-respite-house",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "0",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "features",
+            "nicename": "accessibility-friendly",
+            "#text": "Accessibility-Friendly"
+          },
+          {
+            "domain": "features",
+            "nicename": "peer-staffed",
+            "#text": "Peer-Staffed"
+          },
+          {
+            "domain": "location",
+            "nicename": "california",
+            "#text": "California"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "peer-respites",
+            "#text": "Peer Respites"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:4:{s:10:\"lp_feature\";a:2:{i:0;s:3:\"274\";i:1;s:3:\"278\";}s:15:\"resource-medium\";s:12:\"Face-To-Face\";s:13:\"resource-type\";s:12:\"Intervention\";s:9:\"languages\";a:1:{i:0;s:9:\"\nEnglish\";}}"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:32:{s:12:\"tagline_text\";s:154:\"A six-bed house which serves as a respite and a voluntary opportunity for individuals to learn to use relationships to move out of old roles and patterns.\";s:8:\"gAddress\";s:19:\"Santa Cruz, CA, USA\";s:8:\"latitude\";s:17:\"36.97411709999999\";s:9:\"longitude\";s:19:\"-122.03079630000002\";s:6:\"mappin\";s:0:\"\";s:5:\"phone\";s:14:\"1-800-952-2335\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:0:\"\";s:7:\"website\";s:40:\"https://www.encompasscs.org/second_story\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:5:\"video\";s:0:\"\";s:7:\"gallery\";s:0:\"\";s:12:\"price_status\";s:6:\"notsay\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:7:\"Plan_id\";s:1:\"0\";s:11:\"reviews_ids\";s:0:\"\";s:15:\"claimed_section\";s:11:\"not_claimed\";s:26:\"listings_ads_purchase_date\";s:0:\"\";s:30:\"listings_ads_purchase_packages\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:1:{i:1;s:0:\"\";}s:6:\"faqans\";a:1:{i:1;s:0:\"\";}}s:14:\"business_hours\";a:7:{s:8:\"Saturday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:11:\"campaign_id\";s:0:\"\";s:14:\"changed_planid\";s:0:\"\";s:19:\"listing_reported_by\";s:0:\"\";s:16:\"listing_reported\";s:0:\"\";s:13:\"business_logo\";s:0:\"\";}"
+          },
+          {
+            "meta_key": "_jetpack_related_posts_cache",
+            "meta_value": "a:1:{s:32:\"b5361850c30fd80057e9560a6d0ec27b\";a:2:{s:7:\"expires\";i:1558552624;s:7:\"payload\";a:0:{}}}"
+          },
+          {
+            "meta_key": "_edit_last",
+            "meta_value": "1"
+          },
+          {
+            "meta_key": "_et_monarch_override",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_listing-category",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_features",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_location",
+            "meta_value": "333"
+          },
+          {
+            "meta_key": "_yoast_wpseo_content_score",
+            "meta_value": "30"
+          },
+          {
+            "meta_key": "post_views_count",
+            "meta_value": "10"
+          }
+        ]
+      },
+      {
+        "title": "Afiya House",
+        "link": "https://beta.crisisinternational.org/resource/afiya-house/",
+        "pubDate": "Thu, 23 May 2019 14:11:41 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29726"
+        },
+        "description": [],
+        "encoded": [
+          "<p>Afiya strives to provide a safe space in which each person can find the balance and support needed to turn what is so often referred to as a ‘crisis’ into a learning and growth opportunity.</p><p>Afiya is located in a residential neighborhood in Northampton, Massachusetts and is central to a variety of community resources.  It is available to anyone ages 18 and older who is experiencing distress and feels they would benefit from being in a short-term, 24-hour peer-supported environment with others who have ‘been there.’  Typical stays at Afiya range from one to seven days.</p><p>The majority of people you will meet  (including in leadership roles) at Afiya identify as having lived experience that may include extreme emotional or altered states, psychiatric diagnoses, trauma histories, living without a home, navigating the mental health and other public systems, addictions and more.  They have come together because they believe that the wisdom they have gained from their lived experience is invaluable and sharing their story has great potential to create connection and support for others on their own journeys.</p>",
+          null
+        ],
+        "post_id": "29726",
+        "post_date": "2019-05-23 10:11:41",
+        "post_date_gmt": "2019-05-23 14:11:41",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "afiya-house",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "0",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "features",
+            "nicename": "accessibility-friendly",
+            "#text": "Accessibility-Friendly"
+          },
+          {
+            "domain": "features",
+            "nicename": "peer-staffed",
+            "#text": "Peer-Staffed"
+          },
+          {
+            "domain": "location",
+            "nicename": "massachusetts",
+            "#text": "Massachusetts"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "peer-respites",
+            "#text": "Peer Respites"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:5:{s:13:\"resource-type\";s:12:\"Intervention\";s:15:\"resource-medium\";s:12:\"Face-To-Face\";s:22:\"accessibility-features\";a:2:{i:0;s:18:\"Accessible Parking\";i:1;s:21:\"Wheelchair Accessible\";}s:9:\"languages\";a:1:{i:0;s:7:\"English\";}s:10:\"lp_feature\";a:2:{i:0;s:4:\" 274\";i:1;s:4:\" 278\";}}"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:22:{s:14:\"business_hours\";a:7:{s:8:\"Saturday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:12:\"price_status\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:2:{i:1;s:33:\"Can I drop in to the Afiya House?\";i:2;s:31:\"Are you accessibility friendly?\";}s:6:\"faqans\";a:2:{i:1;s:182:\"For the privacy of people staying at Afiya, we request that people NOT just drop by the house.  If you are interested in visiting and/or learning more about Afiya, please call ahead.\";i:2;s:524:\"Afiya offers a wheelchair accessible ramp to enter the house.  Most of the first floor is accessible to people using a wheelchair or who have other issues with mobility. The first floor bathroom is fully wheelchair accessible, including the shower. The first floor bedroom is designed to be accessible to both people who are in a wheelchair and people who have chemical sensitivities. The house uses scent-free cleaning and laundry products. We encourage people working and staying at Afiya to limit use of scented products.\";}}s:12:\"tagline_text\";s:64:\"Transforming crises into opportunities to learn, heal, and grow.\";s:8:\"gAddress\";s:20:\"Northampton, MA, USA\";s:8:\"latitude\";s:10:\"42.3250896\";s:9:\"longitude\";s:18:\"-72.64120129999998\";s:5:\"phone\";s:14:\"1-413-570-2990\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:19:\"misha@remedient.com\";s:7:\"website\";s:35:\"http://www.westernmassrlc.org/afiya\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:7:\"Plan_id\";s:4:\"none\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:5:\"video\";s:0:\"\";s:15:\"claimed_section\";s:11:\"not_claimed\";}"
+          },
+          {
+            "meta_key": "post_views_count",
+            "meta_value": "22"
+          }
+        ]
+      },
+      {
+        "title": "ALC Conway Peer Support Center Crisis Respite",
+        "link": "https://beta.crisisinternational.org/resource/alc-conway-peer-support-center-crisis-respite/",
+        "pubDate": "Thu, 23 May 2019 14:11:40 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29727"
+        },
+        "description": [],
+        "encoded": [
+          "<p class=\"font_5\">Are you feeling like you are breaking down and reaching the end of your rope? Are you having negative thoughts? Do you just need time and support to piece things together for yourself? If you answered yes to any of these questions, then our Crisis Respite Program may be for you.</p><p class=\"font_7\"><span class=\"color_15\">The ALC Crisis Respite is a non-medical 5-7 day stay in the Conway Peer Support Center Respite provides resources within our town and community. We provide 24/7 support in a safe non-judgmental environment where everyone is working on themselves and their mental and emotional wellbeing. Respite's focus is on giving our guest a brief breather to allow things to settle down. It's purpose is to provide a safe, supportive environment where our guest is able to focus on improving their wellness.</span></p><p class=\"font_7\"><span class=\"color_15\">Guests stay in one of two private rooms. They may go to the center's programing when they are open, or not--that is up to the guest.</span></p><p class=\"font_7\"><span class=\"color_15\"><span class=\"wixGuard\">​</span></span><span class=\"color_15\">Crisis Respite is located at The Conway Peer Support Center, at 6 Main St. Conway, NH. </span></p><p class=\"font_7\"><span class=\"color_15\">In order to use Crisis Respite, you can call the Conway Peer Support Center (603-447-1765) and speak to the respite coordinator, Nichole Schiller. You may also contact any of The Alternative Life Center's centers and they will help you set your visit up.</span></p>",
+          null
+        ],
+        "post_id": "29727",
+        "post_date": "2019-05-23 10:11:40",
+        "post_date_gmt": "2019-05-23 14:11:40",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "alc-conway-peer-support-center-crisis-respite",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "0",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "features",
+            "nicename": "peer-staffed",
+            "#text": "Peer-Staffed"
+          },
+          {
+            "domain": "location",
+            "nicename": "new-hampshire",
+            "#text": "New Hampshire"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "peer-respites",
+            "#text": "Peer Respites"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:5:{s:13:\"resource-type\";s:12:\"Intervention\";s:15:\"resource-medium\";s:12:\"Face-To-Face\";s:22:\"accessibility-features\";a:1:{i:0;s:23:\"Service-Animal Friendly\";}s:9:\"languages\";a:1:{i:0;s:7:\"English\";}s:10:\"lp_feature\";a:1:{i:0;s:4:\" 278\";}}"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:22:{s:14:\"business_hours\";a:7:{s:8:\"Saturday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:12:\"price_status\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:1:{i:1;s:0:\"\";}s:6:\"faqans\";a:1:{i:1;s:0:\"\";}}s:12:\"tagline_text\";s:60:\"An alternative to psychiatric hospitalization in Conway, NH.\";s:8:\"gAddress\";s:15:\"Conway, NH, USA\";s:8:\"latitude\";s:10:\"43.9791831\";s:9:\"longitude\";s:18:\"-71.12034790000001\";s:5:\"phone\";s:14:\"1-603-447-1765\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:19:\"misha@remedient.com\";s:7:\"website\";s:41:\"https://www.alccenters.org/crisis-respite\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:7:\"Plan_id\";s:4:\"none\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:5:\"video\";s:0:\"\";s:15:\"claimed_section\";s:11:\"not_claimed\";}"
+          },
+          {
+            "meta_key": "post_views_count",
+            "meta_value": "14"
+          }
+        ]
+      },
+      {
+        "title": "Alyssum Crisis Repite",
+        "link": "https://beta.crisisinternational.org/resource/alyssum-crisis-repite/",
+        "pubDate": "Thu, 23 May 2019 14:18:05 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29728"
+        },
+        "description": [],
+        "encoded": [
+          "<p class=\"font_2\">Open as of November 21, 2011, the mission of Alyssum is to provide a peer operated non-medical holistic approach to mental wellness and recovery for Vermonters who are experiencing emotional crisis. This alternative to psychiatric hospitalization provides a safe, mutually supportive, non-judgmental, educational and self-empowering environment. Alyssum affords individuals the opportunity to engage in the principles of wellness, recovery and peer support and to emerge from crisis with wisdom and the personal responsibility skills for living well.</p><p><a href=\"https://www.alyssum.org/eligibility\" target=\"_blank\" rel=\"noopener noreferrer\">The program is free to all Vermont residents who meet Alyssum's eligibility requirements.</a></p>",
+          null
+        ],
+        "post_id": "29728",
+        "post_date": "2019-05-23 10:18:05",
+        "post_date_gmt": "2019-05-23 14:18:05",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "alyssum-crisis-repite",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "0",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "features",
+            "nicename": "peer-staffed",
+            "#text": "Peer-Staffed"
+          },
+          {
+            "domain": "location",
+            "nicename": "vermont",
+            "#text": "Vermont"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "peer-respites",
+            "#text": "Peer Respites"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:4:{s:13:\"resource-type\";s:12:\"Intervention\";s:15:\"resource-medium\";s:12:\"Face-To-Face\";s:9:\"languages\";a:1:{i:0;s:7:\"English\";}s:10:\"lp_feature\";a:1:{i:0;s:3:\"278\";}}"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:22:{s:14:\"business_hours\";a:7:{s:8:\"Saturday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:12:\"price_status\";s:6:\"notsay\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:1:{i:1;s:0:\"\";}s:6:\"faqans\";a:1:{i:1;s:0:\"\";}}s:12:\"tagline_text\";s:118:\"A two bed residential crisis respite and hospital diversion service funded by the Vermont Department of Mental Health.\";s:8:\"gAddress\";s:18:\"Rochester, VT, USA\";s:8:\"latitude\";s:10:\"43.8745646\";s:9:\"longitude\";s:10:\"-72.808018\";s:5:\"phone\";s:13:\"1-802-767-600\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:0:\"\";s:7:\"website\";s:23:\"http://www.alyssum.org/\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:7:\"Plan_id\";s:4:\"none\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:5:\"video\";s:43:\"https://www.youtube.com/watch?v=4XzoG9n8fdE\";s:15:\"claimed_section\";s:11:\"not_claimed\";}"
+          },
+          {
+            "meta_key": "_edit_last",
+            "meta_value": "1"
+          }
+        ]
+      },
+      {
+        "title": "Blackbird House Peer Respite",
+        "link": "https://beta.crisisinternational.org/resource/blackbird-house-peer-respite/",
+        "pubDate": "Fri, 24 May 2019 15:33:37 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29734"
+        },
+        "description": [],
+        "encoded": [
+          "<p>Blackbird House offers a safe, supportive, and home-like setting for adults who are experiencing or at-risk of a psychiatric crisis. Guests typically stay at Blackbird House for 3 to 5 days.</p><p>During their stays, guests have time, space, and support to turn what could be a crisis into a time of learning and growth. Guests may choose to participate in groups and wellness activities, and to get connected with local resources. The short-term respite home is run by peers who have “been there” and who have completed extensive training to support the wellness of guests. The house is staffed 24/7 and is open year-round.</p>",
+          null
+        ],
+        "post_id": "29734",
+        "post_date": "2019-05-24 11:33:37",
+        "post_date_gmt": "2019-05-24 15:33:37",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "blackbird-house-peer-respite",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "0",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "features",
+            "nicename": "peer-staffed",
+            "#text": "Peer-Staffed"
+          },
+          {
+            "domain": "location",
+            "nicename": "california",
+            "#text": "California"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "peer-respites",
+            "#text": "Peer Respites"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:6:{s:20:\"public-contact-email\";s:29:\"blackbirdhouse@fcservices.org\";s:13:\"resource-type\";s:13:\" Intervention\";s:15:\"resource-medium\";s:13:\" Face-To-Face\";s:22:\"population-eligibility\";a:3:{i:0;s:13:\" Young Adults\";i:1;s:7:\" Adults\";i:2;s:13:\" Older Adults\";}s:9:\"languages\";a:1:{i:0;s:7:\"English\";}s:10:\"lp_feature\";a:1:{i:0;s:4:\" 278\";}}"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:22:{s:14:\"business_hours\";a:7:{s:8:\"Saturday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:12:\"price_status\";s:6:\"notsay\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:2:{i:1;s:32:\"Who can stay at Blackbird House?\";i:2;s:24:\"How do I arrange a stay?\";}s:6:\"faqans\";a:2:{i:1;s:866:\"Guests must:\nBe 18 years of age or older,\nBe residents of Santa Clara County,\nHave a housing plan for after checkout, and\nHave full Medi-Cal benefits, Medi-Cal eligibility, or no health coverage.\nGuests are not required to be receiving services through the mental health system. The Blackbird team will link guests with services based on guests’ interest.\n\nBlackbird House is for people of all genders and sexual orientations.\n\nAn important note: We recognize the need for housing is great, yet Blackbird House is not a solution for individuals who are homeless. The respite model is designed to provide a safe, supportive space for people to recover their wellness during a brief stay (average of 3-7 days) and then return to their lives. Individuals who contact Blackbird House seeking shelter will be connected with local housing and shelter resources.\";i:2;s:228:\"Blackbird House is located in San Jose and is accessible by public transportation. Guests will receive location details when scheduling their stays. Guests self-refer for this voluntary program. Please call us to arrange a stay.\";}}s:12:\"tagline_text\";s:92:\"A safe place for adults at-risk of a mental health crisis to stabilize and recover wellness.\";s:8:\"gAddress\";s:17:\"San Jose, CA, USA\";s:8:\"latitude\";s:10:\"37.3382082\";s:9:\"longitude\";s:19:\"-121.88632860000001\";s:5:\"phone\";s:14:\"1-408-292-2777\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:19:\"misha@remedient.com\";s:7:\"website\";s:50:\"http://www.fcservices.org/blackbird-house-respite/\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:7:\"Plan_id\";s:4:\"none\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:5:\"video\";s:0:\"\";s:15:\"claimed_section\";s:11:\"not_claimed\";}"
+          }
+        ]
+      },
+      {
+        "title": "CSPNJ Wellness Respite of Passaic County",
+        "link": "https://beta.crisisinternational.org/resource/cspnj-wellness-respite-of-passaic-county/",
+        "pubDate": "Fri, 24 May 2019 15:33:37 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29735"
+        },
+        "description": [],
+        "encoded": [
+          "<p>The Collaborative Support Programs of New Jersey (CSPNJ) Wellness Respite Service (WRS) is a peer operated crisis diversion resource located in Middlesex and Passaic Counties. Serving individuals who are 21 years of age or older and who are experiencing crisis or severe emotional distress, the WRS is geared for people who seek assistance in managing an acute crisis that interferes with their personal recovery and wellness. Guests are able to receive support in a comfortable home environment located in the community for up to 10 days, and an additional 30 days of follow-up support. The WRS is a unique opportunity for peers in crisis to connect, build relationships, gain support to lessen emotional distress.</p>",
+          null
+        ],
+        "post_id": "29735",
+        "post_date": "2019-05-24 11:33:37",
+        "post_date_gmt": "2019-05-24 15:33:37",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "cspnj-wellness-respite-of-passaic-county",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "0",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "features",
+            "nicename": "peer-staffed",
+            "#text": "Peer-Staffed"
+          },
+          {
+            "domain": "location",
+            "nicename": "new-jersey",
+            "#text": "New Jersey"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "peer-respites",
+            "#text": "Peer Respites"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:6:{s:20:\"public-contact-email\";s:18:\"asmullen@cspnj.org\";s:13:\"resource-type\";s:13:\" Intervention\";s:15:\"resource-medium\";s:13:\" Face-To-Face\";s:22:\"population-eligibility\";a:3:{i:0;s:13:\" Young Adults\";i:1;s:7:\" Adults\";i:2;s:13:\" Older Adults\";}s:9:\"languages\";a:1:{i:0;s:7:\"English\";}s:10:\"lp_feature\";a:1:{i:0;s:4:\" 278\";}}"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:22:{s:14:\"business_hours\";a:7:{s:8:\"Saturday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:12:\"price_status\";s:6:\"notsay\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:1:{i:1;s:33:\"Who is eligible for your respite?\";}s:6:\"faqans\";a:1:{i:1;s:218:\"Preference is given to individuals residing in Passaic and Middlesex County who are 18 years of age or older, experiencing a crisis or emotional distress, and identify as living with a mental or substance use disorder.\";}}s:12:\"tagline_text\";s:121:\"A clean, safe, supportive, tranquil, and non-judgmental residential alternative to inpatient psychiatric hospitalization.\";s:8:\"gAddress\";s:16:\"Passaic, NJ, USA\";s:8:\"latitude\";s:10:\"40.8567662\";s:9:\"longitude\";s:18:\"-74.12847640000001\";s:5:\"phone\";s:14:\"1-862-239-9896\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:19:\"misha@remedient.com\";s:7:\"website\";s:37:\"https://www.cspnj.org/wellnessrespite\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:7:\"Plan_id\";s:4:\"none\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:5:\"video\";s:0:\"\";s:15:\"claimed_section\";s:11:\"not_claimed\";}"
+          }
+        ]
+      },
+      {
+        "title": "CSPNJ Wellness Respite of Middlesex County",
+        "link": "https://beta.crisisinternational.org/resource/cspnj-wellness-respite-of-middlesex-county/",
+        "pubDate": "Fri, 24 May 2019 15:36:40 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29736"
+        },
+        "description": [],
+        "encoded": [
+          "The Collaborative Support Programs of New Jersey (CSPNJ) Wellness Respite Service (WRS) is a peer operated crisis diversion resource located in Middlesex and Passaic Counties. Serving individuals who are 21 years of age or older and who are experiencing crisis or severe emotional distress, the WRS is geared for people who seek assistance in managing an acute crisis that interferes with their personal recovery and wellness. Guests are able to receive support in a comfortable home environment located in the community for up to 10 days, and an additional 30 days of follow-up support. The WRS is a unique opportunity for peers in crisis to connect, build relationships, gain support to lessen emotional distress.",
+          null
+        ],
+        "post_id": "29736",
+        "post_date": "2019-05-24 11:36:40",
+        "post_date_gmt": "2019-05-24 15:36:40",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "cspnj-wellness-respite-of-middlesex-county",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "0",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "features",
+            "nicename": "peer-staffed",
+            "#text": "Peer-Staffed"
+          },
+          {
+            "domain": "location",
+            "nicename": "new-jersey",
+            "#text": "New Jersey"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "peer-respites",
+            "#text": "Peer Respites"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:6:{s:10:\"lp_feature\";a:1:{i:0;s:3:\"278\";}s:20:\"public-contact-email\";s:18:\"asmullen@cspnj.org\";s:13:\"resource-type\";s:13:\" Intervention\";s:15:\"resource-medium\";s:13:\" Face-To-Face\";s:22:\"population-eligibility\";a:3:{i:0;s:13:\" Young Adults\";i:1;s:7:\" Adults\";i:2;s:13:\" Older Adults\";}s:9:\"languages\";a:1:{i:0;s:7:\"English\";}}"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:32:{s:12:\"tagline_text\";s:121:\"A clean, safe, supportive, tranquil, and non-judgmental residential alternative to inpatient psychiatric hospitalization.\";s:8:\"gAddress\";s:18:\"Middlesex, NJ, USA\";s:8:\"latitude\";s:9:\"40.572603\";s:9:\"longitude\";s:18:\"-74.49265409999998\";s:6:\"mappin\";s:0:\"\";s:5:\"phone\";s:14:\"1-732-354-4403\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:19:\"misha@remedient.com\";s:7:\"website\";s:37:\"https://www.cspnj.org/wellnessrespite\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:5:\"video\";s:0:\"\";s:7:\"gallery\";s:0:\"\";s:12:\"price_status\";s:6:\"notsay\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:7:\"Plan_id\";s:1:\"0\";s:11:\"reviews_ids\";s:0:\"\";s:15:\"claimed_section\";s:11:\"not_claimed\";s:26:\"listings_ads_purchase_date\";s:0:\"\";s:30:\"listings_ads_purchase_packages\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:1:{i:1;s:33:\"Who is eligible for your respite?\";}s:6:\"faqans\";a:1:{i:1;s:218:\"Preference is given to individuals residing in Passaic and Middlesex County who are 18 years of age or older, experiencing a crisis or emotional distress, and identify as living with a mental or substance use disorder.\";}}s:14:\"business_hours\";a:7:{s:8:\"Saturday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:11:\"campaign_id\";s:0:\"\";s:14:\"changed_planid\";s:0:\"\";s:19:\"listing_reported_by\";s:0:\"\";s:16:\"listing_reported\";s:0:\"\";s:13:\"business_logo\";s:0:\"\";}"
+          },
+          {
+            "meta_key": "_dp_original",
+            "meta_value": "29735"
+          },
+          {
+            "meta_key": "_edit_last",
+            "meta_value": "1"
+          },
+          {
+            "meta_key": "_wp_old_slug",
+            "meta_value": "cspnj-wellness-respite-of-passaic-county"
+          },
+          {
+            "meta_key": "_et_monarch_override",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_listing-category",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_features",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_location",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_content_score",
+            "meta_value": "30"
+          },
+          {
+            "meta_key": "post_views_count",
+            "meta_value": "19"
+          }
+        ]
+      },
+      {
+        "title": "Eagles Nest Respite House",
+        "link": "https://beta.crisisinternational.org/resource/eagles-nest-respite-house/",
+        "pubDate": "Fri, 24 May 2019 15:53:52 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29737"
+        },
+        "description": [],
+        "encoded": [
+          "Eagles Nest Respite serves Cattaraugus and Chautauqua Counties.  It is a short term (1-5 days) peer-run respite home operating in a capacity similar to a bed and breakfast.\n\nIn most cases we can admit someone within an hour of the pre-registration phone call. We can admit guests 24/7 and are open every day of the year. We are a place where people can reassess goals as they continue on their positive path in life, accompanied by respite staff who are all highly trained peer companions and advocates.\n\nOur goal is to foster hope for positive change by empowering individuals to discover the ability and knowledge within themselves to create healthy goals to support wellness. We provide opportunities for our guests to gain the tools that they need to continue to find their positive path in life and to help inspire others to do the same.\n\nWe offer support and empathy, a non-Judgmental environment, one-on-one and/or group chats, empowerment, supportive relationships, linkage to community resources, educating and providing tools for continued wellness, advocacy, community outreach, art, music, cooking, journaling, and so much more.",
+          null
+        ],
+        "post_id": "29737",
+        "post_date": "2019-05-24 11:53:52",
+        "post_date_gmt": "2019-05-24 15:53:52",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "eagles-nest-respite-house",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "0",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "features",
+            "nicename": "peer-staffed",
+            "#text": "Peer-Staffed"
+          },
+          {
+            "domain": "location",
+            "nicename": "new-york",
+            "#text": "New York"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "peer-respites",
+            "#text": "Peer Respites"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:5:{s:10:\"lp_feature\";a:1:{i:0;s:3:\"278\";}s:20:\"public-contact-email\";s:34:\"kirsten.vincent@housingoptions.org\";s:13:\"resource-type\";s:13:\" Intervention\";s:15:\"resource-medium\";s:13:\" Face-To-Face\";s:22:\"population-eligibility\";a:3:{i:0;s:13:\" Young Adults\";i:1;s:7:\" Adults\";i:2;s:13:\" Older Adults\";}}"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:32:{s:12:\"tagline_text\";s:153:\"An innovative peer-run, short-term Crisis Respite hospital diversion program that fills a critical gap in the mental health services in Western New York.\";s:8:\"gAddress\";s:27:\"Cattaraugus County, NY, USA\";s:8:\"latitude\";s:10:\"42.2318132\";s:9:\"longitude\";s:18:\"-78.74762079999999\";s:6:\"mappin\";s:0:\"\";s:5:\"phone\";s:14:\"1-844-421-1114\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:0:\"\";s:7:\"website\";s:61:\"http://www.wnyhousingoptions.org/OurServices/RespiteServices/\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:5:\"video\";s:0:\"\";s:7:\"gallery\";s:0:\"\";s:12:\"price_status\";s:6:\"notsay\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:7:\"Plan_id\";s:1:\"0\";s:11:\"reviews_ids\";s:0:\"\";s:15:\"claimed_section\";s:11:\"not_claimed\";s:26:\"listings_ads_purchase_date\";s:0:\"\";s:30:\"listings_ads_purchase_packages\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:2:{i:1;s:38:\"Who is eligible for Eagles Nest stays?\";i:2;s:39:\"What does a stay at Eagles Nest entail?\";}s:6:\"faqans\";a:2:{i:1;s:360:\"Adults struggling with a mental health issue, including but not limited to, depression, anxiety, veterans and their families, abuse survivors, PTSD, grief and loss of a loved one, individuals and their families living with severe, terminal or chronic illness, and anyone with a mental health issue who is struggling and wants an alternative to hospitalization.\";i:2;s:362:\"Similar in function to a B&B, we offer:\nSupport and Empathy\nNon-Judgmental Environment\nOne on one and/or Group Chats\nEmpowerment\nSupportive Relationships\nLinkage to Community Resources\nEducating and Providing Tools for Continued Wellness\nAdvocacy and Community Outreach\nVarious Interactive Therapies\nArt\nMusic\nCooking\nJournaling\nAnd so much more!!!\";}}s:14:\"business_hours\";a:7:{s:8:\"Saturday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:11:\"campaign_id\";s:0:\"\";s:14:\"changed_planid\";s:0:\"\";s:19:\"listing_reported_by\";s:0:\"\";s:16:\"listing_reported\";s:0:\"\";s:13:\"business_logo\";s:0:\"\";}"
+          },
+          {
+            "meta_key": "_edit_last",
+            "meta_value": "1"
+          },
+          {
+            "meta_key": "_et_monarch_override",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_listing-category",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_features",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_location",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_content_score",
+            "meta_value": "30"
+          }
+        ]
+      },
+      {
+        "title": "Refreshing Waters Respite House of Erie County",
+        "link": "https://beta.crisisinternational.org/resource/refreshing-waters-respite-house-of-erie-county/",
+        "pubDate": "Fri, 24 May 2019 15:53:10 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29738"
+        },
+        "description": [],
+        "encoded": [
+          "Refreshing Waters Respite serves Erie County as a short term (1-5 days) peer-run respite home operating in a capacity similar to a bed and breakfast.\n\nIn most cases we can admit someone within an hour of the pre-registration phone call. We can admit guests 24/7 and are open every day of the year. We are a place where people can reassess goals as they continue on their positive path in life, accompanied by respite staff who are all highly trained peer companions and advocates.\n\nOur goal is to foster hope for positive change by empowering individuals to discover the ability and knowledge within themselves to create healthy goals to support wellness. We provide opportunities for our guests to gain the tools that they need to continue to find their positive path in life and to help inspire others to do the same.\n\nWe offer support and empathy, a non-Judgmental environment, one-on-one and/or group chats, empowerment, supportive relationships, linkage to community resources, educating and providing tools for continued wellness, advocacy, community outreach, art, music, cooking, journaling, and so much more.",
+          null
+        ],
+        "post_id": "29738",
+        "post_date": "2019-05-24 11:53:10",
+        "post_date_gmt": "2019-05-24 15:53:10",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "refreshing-waters-respite-house-of-erie-county",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "0",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "features",
+            "nicename": "peer-staffed",
+            "#text": "Peer-Staffed"
+          },
+          {
+            "domain": "location",
+            "nicename": "new-york",
+            "#text": "New York"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "peer-respites",
+            "#text": "Peer Respites"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:5:{s:20:\"public-contact-email\";s:34:\"kirsten.vincent@housingoptions.org\";s:13:\"resource-type\";s:13:\" Intervention\";s:15:\"resource-medium\";s:13:\" Face-To-Face\";s:22:\"population-eligibility\";a:3:{i:0;s:13:\" Young Adults\";i:1;s:7:\" Adults\";i:2;s:13:\" Older Adults\";}s:10:\"lp_feature\";a:1:{i:0;s:3:\"278\";}}"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:32:{s:12:\"tagline_text\";s:153:\"An innovative peer-run, short-term Crisis Respite hospital diversion program that fills a critical gap in the mental health services in Western New York.\";s:8:\"gAddress\";s:20:\"Erie County, NY, USA\";s:8:\"latitude\";s:10:\"42.9023958\";s:9:\"longitude\";s:18:\"-78.86615890000002\";s:6:\"mappin\";s:0:\"\";s:5:\"phone\";s:14:\"1-844-588-8427\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:0:\"\";s:7:\"website\";s:61:\"http://www.wnyhousingoptions.org/OurServices/RespiteServices/\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:5:\"video\";s:0:\"\";s:7:\"gallery\";s:0:\"\";s:12:\"price_status\";s:6:\"notsay\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:7:\"Plan_id\";s:1:\"0\";s:11:\"reviews_ids\";s:0:\"\";s:15:\"claimed_section\";s:11:\"not_claimed\";s:26:\"listings_ads_purchase_date\";s:0:\"\";s:30:\"listings_ads_purchase_packages\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:3:{i:1;s:38:\"Who is eligible for Eagles Nest stays?\";i:2;s:39:\"What does a stay at Eagles Nest entail?\";i:3;s:27:\"How else can I contact you?\";}s:6:\"faqans\";a:3:{i:1;s:360:\"Adults struggling with a mental health issue, including but not limited to, depression, anxiety, veterans and their families, abuse survivors, PTSD, grief and loss of a loved one, individuals and their families living with severe, terminal or chronic illness, and anyone with a mental health issue who is struggling and wants an alternative to hospitalization.\";i:2;s:362:\"Similar in function to a B&B, we offer:\nSupport and Empathy\nNon-Judgmental Environment\nOne on one and/or Group Chats\nEmpowerment\nSupportive Relationships\nLinkage to Community Resources\nEducating and Providing Tools for Continued Wellness\nAdvocacy and Community Outreach\nVarious Interactive Therapies\nArt\nMusic\nCooking\nJournaling\nAnd so much more!!!\";i:3;s:128:\"House Number: 844-588-8427 or 716-248-2886\nWarmline Number: 844-749-3848 or 716-248-2941\nWarmline Texting Number: 716-392-2221\";}}s:14:\"business_hours\";a:7:{s:8:\"Saturday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:11:\"campaign_id\";s:0:\"\";s:14:\"changed_planid\";s:0:\"\";s:19:\"listing_reported_by\";s:0:\"\";s:16:\"listing_reported\";s:0:\"\";s:13:\"business_logo\";s:0:\"\";}"
+          },
+          {
+            "meta_key": "_dp_original",
+            "meta_value": "29737"
+          },
+          {
+            "meta_key": "_edit_last",
+            "meta_value": "1"
+          },
+          {
+            "meta_key": "_et_monarch_override",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_listing-category",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_features",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_location",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_content_score",
+            "meta_value": "30"
+          }
+        ]
+      },
+      {
+        "title": "r/SuicideWatch",
+        "link": "https://beta.crisisinternational.org/resource/r-suicidewatch/",
+        "pubDate": "Sun, 26 May 2019 01:41:00 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29786"
+        },
+        "description": [],
+        "encoded": [
+          "<em>A Content Warning from the Crisis International Team: </em><em>Please note, the forum threads are moderated- and tended to- by caring and compassionate individuals, but some content may be triggering. If discussions of hopelessness, methods, suicide notes, and other serious content could trigger you, we don't recommend you visit the forums.</em>\n\nThis Reddit forum is an online community of understanding individuals who've each been touched by suicide, whether themselves or in someone they know. Individuals are invited to be real, to take the filter off, without fear of repercussions. You can post, comment, and meet others who won't judge you, who won't overreact, who really understand.",
+          null
+        ],
+        "post_id": "29786",
+        "post_date": "2019-05-25 21:41:00",
+        "post_date_gmt": "2019-05-26 01:41:00",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "r-suicidewatch",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "0",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "location",
+            "nicename": "international",
+            "#text": "International"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "social-media-forums",
+            "#text": "Social Media Forums"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:5:{s:13:\"resource-type\";s:13:\" Intervention\";s:15:\"resource-medium\";s:7:\" Online\";s:22:\"accessibility-features\";a:1:{i:0;s:19:\" WCAG 2.0 Compliant\";}s:22:\"population-eligibility\";a:4:{i:0;s:17:\" Children & Youth\";i:1;s:13:\" Young Adults\";i:2;s:7:\" Adults\";i:3;s:13:\" Older Adults\";}s:9:\"languages\";a:1:{i:0;s:7:\"English\";}}"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:31:{s:12:\"tagline_text\";s:77:\"Reddit's premiere forum for individuals in need of support and understanding.\";s:8:\"gAddress\";s:0:\"\";s:8:\"latitude\";s:0:\"\";s:9:\"longitude\";s:0:\"\";s:6:\"mappin\";s:0:\"\";s:5:\"phone\";s:0:\"\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:0:\"\";s:7:\"website\";s:38:\"https://www.reddit.com/r/SuicideWatch/\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:5:\"video\";s:0:\"\";s:7:\"gallery\";s:0:\"\";s:12:\"price_status\";s:6:\"notsay\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:7:\"Plan_id\";s:1:\"0\";s:11:\"reviews_ids\";s:0:\"\";s:15:\"claimed_section\";s:11:\"not_claimed\";s:26:\"listings_ads_purchase_date\";s:0:\"\";s:30:\"listings_ads_purchase_packages\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:1:{i:1;s:0:\"\";}s:6:\"faqans\";a:1:{i:1;s:0:\"\";}}s:14:\"business_hours\";a:7:{s:8:\"Saturday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:11:\"campaign_id\";s:0:\"\";s:14:\"changed_planid\";s:0:\"\";s:19:\"listing_reported_by\";s:0:\"\";s:16:\"listing_reported\";s:0:\"\";}"
+          },
+          {
+            "meta_key": "_edit_last",
+            "meta_value": "1"
+          },
+          {
+            "meta_key": "_et_monarch_override",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_listing-category",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_features",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_location",
+            "meta_value": "399"
+          },
+          {
+            "meta_key": "_yoast_wpseo_content_score",
+            "meta_value": "30"
+          }
+        ]
+      },
+      {
+        "title": "Gainesville Peer Respite",
+        "link": "https://beta.crisisinternational.org/resource/gainesville-peer-respite/",
+        "pubDate": "Tue, 28 May 2019 17:15:56 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29790"
+        },
+        "description": [],
+        "encoded": [
+          "Need a safe home away from home?  The best way to access our support is to come stay with us free of charge for up to 8 nights a month.  Guests interested in overnight respite also join us for a brief, proactive interview to discuss needs and goals during their stay.\n\nGainesville Peer Respite also offers a <a href=\"https://beta.crisisinternational.org/resource/gainesville-peer-respite-warmline/\">Warmline</a> and <a href=\"https://beta.crisisinternational.org/resource/gainesville-peer-respite-groups/\">Support Groups</a>.",
+          null
+        ],
+        "post_id": "29790",
+        "post_date": "2019-05-28 13:15:56",
+        "post_date_gmt": "2019-05-28 17:15:56",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "gainesville-peer-respite",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "0",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "features",
+            "nicename": "peer-staffed",
+            "#text": "Peer-Staffed"
+          },
+          {
+            "domain": "location",
+            "nicename": "florida",
+            "#text": "Florida"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "peer-respites",
+            "#text": "Peer Respites"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:6:{s:13:\"resource-type\";s:13:\" Intervention\";s:15:\"resource-medium\";s:13:\" Face-To-Face\";s:10:\"lp_feature\";a:1:{i:0;s:3:\"278\";}s:22:\"population-eligibility\";a:3:{i:0;s:13:\" Young Adults\";i:1;s:7:\" Adults\";i:2;s:13:\" Older Adults\";}s:20:\"population-specialty\";s:36:\"First Nationers & Native Individuals\";s:9:\"languages\";a:1:{i:0;s:7:\"English\";}}"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:31:{s:12:\"tagline_text\";s:64:\"A safe home away from home in a peer-staffed, overnight respite.\";s:8:\"gAddress\";s:20:\"Gainesville, FL, USA\";s:8:\"latitude\";s:10:\"29.6516344\";s:9:\"longitude\";s:18:\"-82.32482619999996\";s:6:\"mappin\";s:0:\"\";s:5:\"phone\";s:14:\"1-352-559-4559\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:19:\"misha@remedient.com\";s:7:\"website\";s:35:\"https://www.gainesvillerespite.org/\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:5:\"video\";s:0:\"\";s:7:\"gallery\";s:0:\"\";s:12:\"price_status\";s:6:\"notsay\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:7:\"Plan_id\";s:1:\"0\";s:11:\"reviews_ids\";s:0:\"\";s:15:\"claimed_section\";s:11:\"not_claimed\";s:26:\"listings_ads_purchase_date\";s:0:\"\";s:30:\"listings_ads_purchase_packages\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:1:{i:1;s:60:\"What are your  eligibility requirements for overnight stays?\";}s:6:\"faqans\";a:1:{i:1;s:216:\"Unfortunately we are not currently equipped to provide overnight respite to those who are experiencing homelessness.  Additionally, due to liability, we are unable to provide any services to registered sex offenders.\";}}s:14:\"business_hours\";a:7:{s:8:\"Saturday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:11:\"campaign_id\";s:0:\"\";s:14:\"changed_planid\";s:0:\"\";s:19:\"listing_reported_by\";s:0:\"\";s:16:\"listing_reported\";s:0:\"\";}"
+          },
+          {
+            "meta_key": "_edit_last",
+            "meta_value": "1"
+          },
+          {
+            "meta_key": "_et_monarch_override",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_listing-category",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_features",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_location",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_content_score",
+            "meta_value": "90"
+          }
+        ]
+      },
+      {
+        "title": "Gainseville  Peer Respite Warmline",
+        "link": "https://beta.crisisinternational.org/resource/gainseville-peer-respite-warmline/",
+        "pubDate": "Tue, 28 May 2019 17:28:17 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29791"
+        },
+        "description": [],
+        "encoded": [
+          "<p>Need someone to talk to? The Gainesville Peer Respite provides sanctuary and support to those who are experiencing or have experienced overwhelming mental/emotional distress. They seek to create a community that supports open dialogue, empowerment, self-determination, recovery and wellness. You can reach their warmline by calling the number above.</p><p><em>From the Crisis International team:</em></p><p><em>A warm-line offers callers an opportunity to speak confidentially with a peer specialist about current struggles, without fear of hospitalization. Warmlines may not be answered immediately, though some welcome voicemails and will return calls as they're able.</em></p><p>Gainesville Peer Respite also offers a <a href=\"https://beta.crisisinternational.org/resource/gainesville-peer-respite/\">Peer Respite Center</a>.</p>",
+          null
+        ],
+        "post_id": "29791",
+        "post_date": "2019-05-28 13:28:17",
+        "post_date_gmt": "2019-05-28 17:28:17",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "gainseville-peer-respite-warmline",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "0",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "features",
+            "nicename": "peer-staffed",
+            "#text": "Peer-Staffed"
+          },
+          {
+            "domain": "location",
+            "nicename": "florida",
+            "#text": "Florida"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "warmlines",
+            "#text": "Warmlines"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:6:{s:13:\"resource-type\";s:13:\" Intervention\";s:15:\"resource-medium\";s:11:\" Phone Call\";s:10:\"lp_feature\";a:1:{i:0;s:4:\" 278\";}s:9:\"languages\";a:1:{i:0;s:7:\"English\";}s:22:\"population-eligibility\";a:3:{i:0;s:13:\" Young Adults\";i:1;s:7:\" Adults\";i:2;s:13:\" Older Adults\";}s:20:\"population-specialty\";s:0:\"\";}"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:22:{s:14:\"business_hours\";a:7:{s:8:\"Saturday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:12:\"price_status\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:1:{i:1;s:0:\"\";}s:6:\"faqans\";a:1:{i:1;s:0:\"\";}}s:12:\"tagline_text\";s:104:\"A confidential warmline for individuals who are experiencing overwhelming mental and emotional distress.\";s:8:\"gAddress\";s:20:\"Gainesville, FL, USA\";s:8:\"latitude\";s:10:\"29.6516344\";s:9:\"longitude\";s:18:\"-82.32482619999996\";s:5:\"phone\";s:14:\"1-352-559-4559\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:19:\"misha@remedient.com\";s:7:\"website\";s:0:\"\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:7:\"Plan_id\";s:4:\"none\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:5:\"video\";s:0:\"\";s:15:\"claimed_section\";s:11:\"not_claimed\";}"
+          },
+          {
+            "meta_key": "post_views_count",
+            "meta_value": "0"
+          }
+        ]
+      },
+      {
+        "title": "Gainesville Peer Respite Groups",
+        "link": "https://beta.crisisinternational.org/resource/gainesville-peer-respite-groups/",
+        "pubDate": "Tue, 28 May 2019 17:28:17 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29793"
+        },
+        "description": [],
+        "encoded": [
+          "Want to talk with a group of peers?  We offer a variety of support groups and wellness activities throughout the week! Visit our website to find the most up-to-date schedule of events offered.\n\nGainesville Peer Respite also offers an overnight <a href=\"https://beta.crisisinternational.org/resource/gainesville-peer-respite/\">Peer Respite</a> and <a href=\"https://beta.crisisinternational.org/resource/gainesville-peer-respite-warmline/\">Warmline</a>.",
+          null
+        ],
+        "post_id": "29793",
+        "post_date": "2019-05-28 13:28:17",
+        "post_date_gmt": "2019-05-28 17:28:17",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "gainesville-peer-respite-groups",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "0",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "location",
+            "nicename": "florida",
+            "#text": "Florida"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "support-groups",
+            "#text": "Support Groups"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:4:{s:22:\"population-eligibility\";a:3:{i:0;s:13:\" Young Adults\";i:1;s:7:\" Adults\";i:2;s:13:\" Older Adults\";}s:20:\"population-specialty\";s:36:\"First Nationers & Native Individuals\";s:9:\"languages\";a:1:{i:0;s:7:\"English\";}s:15:\"resource-medium\";s:13:\" Face-To-Face\";}"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:31:{s:12:\"tagline_text\";s:94:\"Offering a variety of support groups and wellness activities led by peers throughout the week.\";s:8:\"gAddress\";s:20:\"Gainesville, FL, USA\";s:8:\"latitude\";s:10:\"29.6516344\";s:9:\"longitude\";s:18:\"-82.32482619999996\";s:6:\"mappin\";s:0:\"\";s:5:\"phone\";s:0:\"\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:19:\"misha@remedient.com\";s:7:\"website\";s:48:\"https://www.gainesvillerespite.org/what-we-offer\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:5:\"video\";s:0:\"\";s:7:\"gallery\";s:0:\"\";s:12:\"price_status\";s:6:\"notsay\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:7:\"Plan_id\";s:1:\"0\";s:11:\"reviews_ids\";s:0:\"\";s:15:\"claimed_section\";s:11:\"not_claimed\";s:26:\"listings_ads_purchase_date\";s:0:\"\";s:30:\"listings_ads_purchase_packages\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:1:{i:1;s:0:\"\";}s:6:\"faqans\";a:1:{i:1;s:0:\"\";}}s:14:\"business_hours\";s:0:\"\";s:11:\"campaign_id\";s:0:\"\";s:14:\"changed_planid\";s:0:\"\";s:19:\"listing_reported_by\";s:0:\"\";s:16:\"listing_reported\";s:0:\"\";}"
+          },
+          {
+            "meta_key": "_edit_last",
+            "meta_value": "1"
+          },
+          {
+            "meta_key": "_et_monarch_override",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_listing-category",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_features",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_primary_location",
+            "meta_value": null
+          },
+          {
+            "meta_key": "_yoast_wpseo_content_score",
+            "meta_value": "90"
+          },
+          {
+            "meta_key": "post_views_count",
+            "meta_value": "0"
+          }
+        ]
+      },
+      {
+        "title": "PSWRC of Metro Atlanta",
+        "link": "https://beta.crisisinternational.org/resource/pswrc-of-metro-atlanta/",
+        "pubDate": "Tue, 28 May 2019 17:40:55 +0000",
+        "creator": "misha",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29795"
+        },
+        "description": [],
+        "encoded": [
+          "<p>The Peer Support, Wellness, and Respite Centers of Georgia are projects of the Georgia Mental Health Consumer Network, funded through a contract with the Georgia Department of Behavioral Health and Developmental Disabilities.</p><p>The Peer Support, Wellness and Respite Centers of Georgia (PSWRCs) are peer-run alternatives to traditional mental health services. The first PSWRC was opened in Decatur, GA on January 30, 2008. In June 2011, two more locations were opened in North Georgia as a response to the regional hospital closing in North Georgia. In September 2014, two more PSWRCs were opened, also in response to a regional hospital closing in South Georgia.</p><p>Each of the five PSWRCs offer a 24/7 warmline, daily wellness activities, community resources, computers/wifi, and 3 respite rooms where a person can stay for up to 7 days instead of going into  psychiatric hospital. The PSWRCs are open from 10:00 am to 6:00 pm for house tours, activities, community outings, general resources, and computers. See the website for more detailed information and schedules for each PSWRC. </p>",
+          null
+        ],
+        "post_id": "29795",
+        "post_date": "2019-05-28 13:40:55",
+        "post_date_gmt": "2019-05-28 17:40:55",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_name": "pswrc-of-metro-atlanta",
+        "status": "publish",
+        "post_parent": "0",
+        "menu_order": "0",
+        "post_type": "listing",
+        "post_password": null,
+        "is_sticky": "0",
+        "category": [
+          {
+            "domain": "features",
+            "nicename": "peer-staffed",
+            "#text": "Peer-Staffed"
+          },
+          {
+            "domain": "location",
+            "nicename": "georgia-united-states",
+            "#text": "Georgia"
+          },
+          {
+            "domain": "listing-category",
+            "nicename": "peer-respites",
+            "#text": "Peer Respites"
+          }
+        ],
+        "postmeta": [
+          {
+            "meta_key": "lp_listingpro_options_fields",
+            "meta_value": "a:6:{s:13:\"resource-type\";s:13:\" Intervention\";s:15:\"resource-medium\";s:13:\" Face-To-Face\";s:10:\"lp_feature\";a:1:{i:0;s:4:\" 278\";}s:9:\"languages\";a:1:{i:0;s:7:\"English\";}s:22:\"population-eligibility\";a:3:{i:0;s:13:\" Young Adults\";i:1;s:7:\" Adults\";i:2;s:13:\" Older Adults\";}s:20:\"population-specialty\";s:0:\"\";}"
+          },
+          {
+            "meta_key": "lp_listingpro_options",
+            "meta_value": "a:22:{s:14:\"business_hours\";a:7:{s:8:\"Saturday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Sunday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Monday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:7:\"Tuesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:9:\"Wednesday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:8:\"Thursday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}s:6:\"Friday\";a:2:{s:4:\"open\";s:0:\"\";s:5:\"close\";s:0:\"\";}}s:12:\"price_status\";s:0:\"\";s:4:\"faqs\";a:2:{s:3:\"faq\";a:1:{i:1;s:0:\"\";}s:6:\"faqans\";a:1:{i:1;s:0:\"\";}}s:12:\"tagline_text\";s:71:\"Peer-run alternatives to traditional mental health services in Georgia.\";s:8:\"gAddress\";s:36:\"444 Sycamore Drive, Decatur, GA, USA\";s:8:\"latitude\";s:10:\"33.7789342\";s:9:\"longitude\";s:10:\"-84.282378\";s:5:\"phone\";s:14:\"1-404-371-1414\";s:8:\"whatsapp\";s:0:\"\";s:5:\"email\";s:19:\"misha@remedient.com\";s:7:\"website\";s:51:\"https://www.gmhcn.org/peer-support-wellness-respite\";s:7:\"twitter\";s:0:\"\";s:8:\"facebook\";s:0:\"\";s:8:\"linkedin\";s:0:\"\";s:11:\"google_plus\";s:0:\"\";s:7:\"youtube\";s:0:\"\";s:9:\"instagram\";s:0:\"\";s:7:\"Plan_id\";s:4:\"none\";s:10:\"list_price\";s:0:\"\";s:13:\"list_price_to\";s:0:\"\";s:5:\"video\";s:0:\"\";s:15:\"claimed_section\";s:11:\"not_claimed\";}"
+          },
+          {
+            "meta_key": "_edit_last",
+            "meta_value": "1"
+          }
+        ]
+      }
+    ]
+  }
+}
