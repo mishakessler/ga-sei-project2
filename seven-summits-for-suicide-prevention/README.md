@@ -1,4 +1,4 @@
-# Seven Summits for Suicide Prevention
+# Seven Summits for Suicide Prevention 
 
 ![](https://i.giphy.com/media/fXgKfzV4aaHQI/source.gif)
 
@@ -7,7 +7,6 @@
 Seven Summits for Suicide Prevention is a biennial mountaineering fundraiser that donates 100% of proceeds to small-budget, high-impact nonprofits in the suicide prevention and postvention space. By creating an app that calls on the Hiking Project API, Mountain Project API, Dark Sky API, GoodReads API, News API and most importantly, the Fundraise.com API, Seven Summits for Suicide Prevention will create an immersive and interactive experience for all past and potential donors.
 
 The site will allow visitors to learn more about 9 specific mountaineering trips, with nearby trek and technical climb data, environmental and weather data, relevant books, and current news regarding the specific trip they're viewing, in addition to the core function of donating and selecting the nonprofit they wish their funds to go to.
-
 
 fundraise.com https://api.fundraise.com/v1/organizations/seven-summits-for-suicide-prevention/fundraisers/misha-kessler.json
 
@@ -22,8 +21,11 @@ Pixabay https://pixabay.com/api/?key=12896996-4b7f5a90396937631469651c1&q=mount+
 ## Wireframes
 
 ![] (seven-summits-for-suicide-prevention/src/assets/landing.png)
+
 ![] (seven-summits-for-suicide-prevention/src/assets/destination.png)
+
 ![] (seven-summits-for-suicide-prevention/src/assets/completed-destination.png)
+
 ![] (seven-summits-for-suicide-prevention/src/assets/donate.png)
 
 ### MVP/PostMVP - 5min
@@ -46,36 +48,60 @@ The MVP will feature 9 hard-coded mountain destinations and will call on the fun
 ## React Component Hierarchy
 
 App
+
 |__ Assets/
+
 |__ Components/
+
       |__ Header
+
       |__ RenderFundraiser
+
       |__ RenderWeather
+
       |__ RenderTreks
+
       |__ RenderClimbs
+
       |__ Footer
+
 |__ Pages/
+
       |__ Landing
+
             |__ Mount Everest
+
             |__ Mount Everest Base Camp
+
             |__ Aconcagua
+
             |__ Mount Denali
+
             |__ Mount Kilimanjaro
+
             |__ Mount Elbrus
+
             |__ Vinson Massif
+
             |__ Puncak Jaya (Carstenz)
+
             |__ Mount Blanc
+
             |__ Mount Kosciuszko
+
       |__ About
+
             |__ Get Involved
+
       |__ Contact
+
 |__ Services/
 
 
 ## Functional Components
 
 | Component | Description | 
-| --- | :---: |  
+| --- | :---: | 
 | Header (Function) | This will render the header, containing the main navigation. | 
 | Footer (Function) | This will render the sticky footer, containing the destinations. | 
 | RenderFundraiser (Function) | This will render the response data from the Fundraise.com API. | 
@@ -88,7 +114,6 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-
 
 ## Helper Functions
 Helper functions should be generic enought that they can be reused in other applications. Use this section to document all helper functions that fall into this category.
