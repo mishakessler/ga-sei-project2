@@ -1,6 +1,6 @@
 # Seven Summits for Suicide Prevention
 
-![](seven-summits-for-suicide-prevention/mountain-cat.gif)
+![](https://i.giphy.com/media/fXgKfzV4aaHQI/source.gif)
 
 ## Project Description
 
