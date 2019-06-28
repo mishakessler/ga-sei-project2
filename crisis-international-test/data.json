@@ -33,7 +33,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29304"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29304"
         },
         "description": [],
         "encoded": [
@@ -56,42 +56,42 @@
           {
             "domain": "list-tags",
             "nicename": "veterans",
-            "#text": "veterans"
+            "text": "veterans"
           },
           {
             "domain": "list-tags",
             "nicename": "accessible",
-            "#text": "accessible"
+            "text": "accessible"
           },
           {
             "domain": "list-tags",
             "nicename": "deaf-and-hard-of-hearing",
-            "#text": "deaf and hard of hearing"
+            "text": "deaf and hard of hearing"
           },
           {
             "domain": "list-tags",
             "nicename": "24-7",
-            "#text": "24/7"
+            "text": "24/7"
           },
           {
             "domain": "features",
             "nicename": "accessibility-friendly",
-            "#text": "Accessibility-Friendly"
+            "text": "Accessibility-Friendly"
           },
           {
             "domain": "features",
             "nicename": "multilingual",
-            "#text": "Multilingual"
+            "text": "Multilingual"
           },
           {
             "domain": "location",
             "nicename": "united-states",
-            "#text": "United States"
+            "text": "United States"
           },
           {
             "domain": "listing-category",
             "nicename": "hotlines",
-            "#text": "Hotlines"
+            "text": "Hotlines"
           }
         ],
         "postmeta": [
@@ -156,7 +156,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29309"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29309"
         },
         "description": [],
         "encoded": [
@@ -179,12 +179,12 @@
           {
             "domain": "location",
             "nicename": "united-states",
-            "#text": "United States"
+            "text": "United States"
           },
           {
             "domain": "listing-category",
             "nicename": "hospitals",
-            "#text": "Hospitals"
+            "text": "Hospitals"
           }
         ],
         "postmeta": [
@@ -229,7 +229,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29320"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29320"
         },
         "description": [],
         "encoded": [
@@ -252,12 +252,12 @@
           {
             "domain": "location",
             "nicename": "united-states",
-            "#text": "United States"
+            "text": "United States"
           },
           {
             "domain": "listing-category",
             "nicename": "general-emergencies",
-            "#text": "General Emergencies"
+            "text": "General Emergencies"
           }
         ],
         "postmeta": [
@@ -306,7 +306,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29370"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29370"
         },
         "description": [],
         "encoded": [
@@ -329,12 +329,12 @@
           {
             "domain": "location",
             "nicename": "united-states",
-            "#text": "United States"
+            "text": "United States"
           },
           {
             "domain": "listing-category",
             "nicename": "textlines",
-            "#text": "Textlines"
+            "text": "Textlines"
           }
         ],
         "postmeta": [
@@ -383,7 +383,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29401"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29401"
         },
         "description": [],
         "encoded": [
@@ -406,12 +406,12 @@
           {
             "domain": "location",
             "nicename": "canada",
-            "#text": "Canada"
+            "text": "Canada"
           },
           {
             "domain": "listing-category",
             "nicename": "general-emergencies",
-            "#text": "General Emergencies"
+            "text": "General Emergencies"
           }
         ],
         "postmeta": [
@@ -436,7 +436,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29415"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29415"
         },
         "description": [],
         "encoded": [
@@ -459,32 +459,32 @@
           {
             "domain": "list-tags",
             "nicename": "veterans",
-            "#text": "veterans"
+            "text": "veterans"
           },
           {
             "domain": "list-tags",
             "nicename": "accessible",
-            "#text": "accessible"
+            "text": "accessible"
           },
           {
             "domain": "list-tags",
             "nicename": "deaf-and-hard-of-hearing",
-            "#text": "deaf and hard of hearing"
+            "text": "deaf and hard of hearing"
           },
           {
             "domain": "list-tags",
             "nicename": "24-7",
-            "#text": "24/7"
+            "text": "24/7"
           },
           {
             "domain": "location",
             "nicename": "united-states",
-            "#text": "United States"
+            "text": "United States"
           },
           {
             "domain": "listing-category",
             "nicename": "webchats",
-            "#text": "Webchats"
+            "text": "Webchats"
           }
         ],
         "postmeta": [
@@ -557,7 +557,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29453"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29453"
         },
         "description": [],
         "encoded": [
@@ -580,12 +580,12 @@
           {
             "domain": "listing-category",
             "nicename": "hotlines",
-            "#text": "Hotlines"
+            "text": "Hotlines"
           },
           {
             "domain": "location",
             "nicename": "canada",
-            "#text": "Canada"
+            "text": "Canada"
           }
         ],
         "postmeta": [
@@ -610,7 +610,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29454"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29454"
         },
         "description": [],
         "encoded": [
@@ -633,12 +633,12 @@
           {
             "domain": "location",
             "nicename": "canada",
-            "#text": "Canada"
+            "text": "Canada"
           },
           {
             "domain": "listing-category",
             "nicename": "textlines",
-            "#text": "Textlines"
+            "text": "Textlines"
           }
         ],
         "postmeta": [
@@ -663,7 +663,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29720"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29720"
         },
         "description": [],
         "encoded": [
@@ -686,22 +686,22 @@
           {
             "domain": "features",
             "nicename": "accessibility-friendly",
-            "#text": "Accessibility-Friendly"
+            "text": "Accessibility-Friendly"
           },
           {
             "domain": "features",
             "nicename": "peer-staffed",
-            "#text": "Peer-Staffed"
+            "text": "Peer-Staffed"
           },
           {
             "domain": "location",
             "nicename": "california",
-            "#text": "California"
+            "text": "California"
           },
           {
             "domain": "listing-category",
             "nicename": "peer-respites",
-            "#text": "Peer Respites"
+            "text": "Peer Respites"
           }
         ],
         "postmeta": [
@@ -754,7 +754,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29726"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29726"
         },
         "description": [],
         "encoded": [
@@ -777,22 +777,22 @@
           {
             "domain": "features",
             "nicename": "accessibility-friendly",
-            "#text": "Accessibility-Friendly"
+            "text": "Accessibility-Friendly"
           },
           {
             "domain": "features",
             "nicename": "peer-staffed",
-            "#text": "Peer-Staffed"
+            "text": "Peer-Staffed"
           },
           {
             "domain": "location",
             "nicename": "massachusetts",
-            "#text": "Massachusetts"
+            "text": "Massachusetts"
           },
           {
             "domain": "listing-category",
             "nicename": "peer-respites",
-            "#text": "Peer Respites"
+            "text": "Peer Respites"
           }
         ],
         "postmeta": [
@@ -817,7 +817,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29727"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29727"
         },
         "description": [],
         "encoded": [
@@ -840,17 +840,17 @@
           {
             "domain": "features",
             "nicename": "peer-staffed",
-            "#text": "Peer-Staffed"
+            "text": "Peer-Staffed"
           },
           {
             "domain": "location",
             "nicename": "new-hampshire",
-            "#text": "New Hampshire"
+            "text": "New Hampshire"
           },
           {
             "domain": "listing-category",
             "nicename": "peer-respites",
-            "#text": "Peer Respites"
+            "text": "Peer Respites"
           }
         ],
         "postmeta": [
@@ -875,7 +875,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29728"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29728"
         },
         "description": [],
         "encoded": [
@@ -898,17 +898,17 @@
           {
             "domain": "features",
             "nicename": "peer-staffed",
-            "#text": "Peer-Staffed"
+            "text": "Peer-Staffed"
           },
           {
             "domain": "location",
             "nicename": "vermont",
-            "#text": "Vermont"
+            "text": "Vermont"
           },
           {
             "domain": "listing-category",
             "nicename": "peer-respites",
-            "#text": "Peer Respites"
+            "text": "Peer Respites"
           }
         ],
         "postmeta": [
@@ -933,7 +933,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29734"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29734"
         },
         "description": [],
         "encoded": [
@@ -956,17 +956,17 @@
           {
             "domain": "features",
             "nicename": "peer-staffed",
-            "#text": "Peer-Staffed"
+            "text": "Peer-Staffed"
           },
           {
             "domain": "location",
             "nicename": "california",
-            "#text": "California"
+            "text": "California"
           },
           {
             "domain": "listing-category",
             "nicename": "peer-respites",
-            "#text": "Peer Respites"
+            "text": "Peer Respites"
           }
         ],
         "postmeta": [
@@ -987,7 +987,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29735"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29735"
         },
         "description": [],
         "encoded": [
@@ -1010,17 +1010,17 @@
           {
             "domain": "features",
             "nicename": "peer-staffed",
-            "#text": "Peer-Staffed"
+            "text": "Peer-Staffed"
           },
           {
             "domain": "location",
             "nicename": "new-jersey",
-            "#text": "New Jersey"
+            "text": "New Jersey"
           },
           {
             "domain": "listing-category",
             "nicename": "peer-respites",
-            "#text": "Peer Respites"
+            "text": "Peer Respites"
           }
         ],
         "postmeta": [
@@ -1041,7 +1041,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29736"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29736"
         },
         "description": [],
         "encoded": [
@@ -1064,17 +1064,17 @@
           {
             "domain": "features",
             "nicename": "peer-staffed",
-            "#text": "Peer-Staffed"
+            "text": "Peer-Staffed"
           },
           {
             "domain": "location",
             "nicename": "new-jersey",
-            "#text": "New Jersey"
+            "text": "New Jersey"
           },
           {
             "domain": "listing-category",
             "nicename": "peer-respites",
-            "#text": "Peer Respites"
+            "text": "Peer Respites"
           }
         ],
         "postmeta": [
@@ -1131,7 +1131,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29737"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29737"
         },
         "description": [],
         "encoded": [
@@ -1154,17 +1154,17 @@
           {
             "domain": "features",
             "nicename": "peer-staffed",
-            "#text": "Peer-Staffed"
+            "text": "Peer-Staffed"
           },
           {
             "domain": "location",
             "nicename": "new-york",
-            "#text": "New York"
+            "text": "New York"
           },
           {
             "domain": "listing-category",
             "nicename": "peer-respites",
-            "#text": "Peer Respites"
+            "text": "Peer Respites"
           }
         ],
         "postmeta": [
@@ -1209,7 +1209,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29738"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29738"
         },
         "description": [],
         "encoded": [
@@ -1232,17 +1232,17 @@
           {
             "domain": "features",
             "nicename": "peer-staffed",
-            "#text": "Peer-Staffed"
+            "text": "Peer-Staffed"
           },
           {
             "domain": "location",
             "nicename": "new-york",
-            "#text": "New York"
+            "text": "New York"
           },
           {
             "domain": "listing-category",
             "nicename": "peer-respites",
-            "#text": "Peer Respites"
+            "text": "Peer Respites"
           }
         ],
         "postmeta": [
@@ -1291,7 +1291,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29786"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29786"
         },
         "description": [],
         "encoded": [
@@ -1314,12 +1314,12 @@
           {
             "domain": "location",
             "nicename": "international",
-            "#text": "International"
+            "text": "International"
           },
           {
             "domain": "listing-category",
             "nicename": "social-media-forums",
-            "#text": "Social Media Forums"
+            "text": "Social Media Forums"
           }
         ],
         "postmeta": [
@@ -1364,7 +1364,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29790"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29790"
         },
         "description": [],
         "encoded": [
@@ -1387,17 +1387,17 @@
           {
             "domain": "features",
             "nicename": "peer-staffed",
-            "#text": "Peer-Staffed"
+            "text": "Peer-Staffed"
           },
           {
             "domain": "location",
             "nicename": "florida",
-            "#text": "Florida"
+            "text": "Florida"
           },
           {
             "domain": "listing-category",
             "nicename": "peer-respites",
-            "#text": "Peer Respites"
+            "text": "Peer Respites"
           }
         ],
         "postmeta": [
@@ -1442,7 +1442,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29791"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29791"
         },
         "description": [],
         "encoded": [
@@ -1465,17 +1465,17 @@
           {
             "domain": "features",
             "nicename": "peer-staffed",
-            "#text": "Peer-Staffed"
+            "text": "Peer-Staffed"
           },
           {
             "domain": "location",
             "nicename": "florida",
-            "#text": "Florida"
+            "text": "Florida"
           },
           {
             "domain": "listing-category",
             "nicename": "warmlines",
-            "#text": "Warmlines"
+            "text": "Warmlines"
           }
         ],
         "postmeta": [
@@ -1500,7 +1500,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29793"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29793"
         },
         "description": [],
         "encoded": [
@@ -1523,12 +1523,12 @@
           {
             "domain": "location",
             "nicename": "florida",
-            "#text": "Florida"
+            "text": "Florida"
           },
           {
             "domain": "listing-category",
             "nicename": "support-groups",
-            "#text": "Support Groups"
+            "text": "Support Groups"
           }
         ],
         "postmeta": [
@@ -1577,7 +1577,7 @@
         "creator": "misha",
         "guid": {
           "isPermaLink": "false",
-          "#text": "https://beta.crisisinternational.org/?post_type=listing&p=29795"
+          "text": "https://beta.crisisinternational.org/?post_type=listing&p=29795"
         },
         "description": [],
         "encoded": [
@@ -1600,17 +1600,17 @@
           {
             "domain": "features",
             "nicename": "peer-staffed",
-            "#text": "Peer-Staffed"
+            "text": "Peer-Staffed"
           },
           {
             "domain": "location",
             "nicename": "georgia-united-states",
-            "#text": "Georgia"
+            "text": "Georgia"
           },
           {
             "domain": "listing-category",
             "nicename": "peer-respites",
-            "#text": "Peer Respites"
+            "text": "Peer Respites"
           }
         ],
         "postmeta": [
