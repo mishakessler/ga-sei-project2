@@ -20,6 +20,10 @@ Pixabay https://pixabay.com/api/?key=12896996-4b7f5a90396937631469651c1&q=mount+
 
 ## Wireframes
 
+![] (https://imgur.com/a/DPkvD5M)
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/DPkvD5M"><a href="//imgur.com/a/DPkvD5M"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 ![] (seven-summits-for-suicide-prevention/src/assets/landing.png)
 
 ![] (seven-summits-for-suicide-prevention/src/assets/destination.png)
@@ -30,7 +34,7 @@ Pixabay https://pixabay.com/api/?key=12896996-4b7f5a90396937631469651c1&q=mount+
 
 ### MVP/PostMVP - 5min
 
-The MVP will feature 9 hard-coded mountain destinations and will call on the fundraise.com API to prominently feature and call viewers to action; 
+The MVP will feature 9 hard-coded mountain destinations and will call on the fundraise.com API to prominently feature and call viewers to action, as well as the DarkSky API to show weather information regarding the destinations. 
 
 #### MVP EXAMPLE
 - Call on Fundraise API to render fundraiser data and invite veiwers to donate.
