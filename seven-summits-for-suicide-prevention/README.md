@@ -22,8 +22,6 @@ Pixabay https://pixabay.com/api/?key=12896996-4b7f5a90396937631469651c1&q=mount+
 
 ![] (https://imgur.com/a/DPkvD5M)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/DPkvD5M"><a href="//imgur.com/a/DPkvD5M"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 ![] (seven-summits-for-suicide-prevention/src/assets/landing.png)
 
 ![] (seven-summits-for-suicide-prevention/src/assets/destination.png)
