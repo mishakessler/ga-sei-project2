@@ -12,10 +12,6 @@ fundraise.com https://api.fundraise.com/v1/organizations/seven-summits-for-suici
 
 DarkSky https://api.darksky.net/forecast/274cf00e552f24b5916ef21ce7c68873/27.9881,86.9250
 
-Hiking Project https://www.hikingproject.com/data/get-trails?lat=27.9881&lon=86.9250&maxDistance=100&key=200500739-e5b78ba51e8a8493da4274232bbc29af
-
-Mountain Project https://www.mountainproject.com/data/get-routes-for-lat-lon?lat=27.9881&lon=86.9250&maxDistance=100&minDiff=5.6&maxDiff=5.10&key=200500739-67afb8d0364d5dd0bb9b7952da68bad1
-
 Pixabay https://pixabay.com/api/?key=12896996-4b7f5a90396937631469651c1&q=mount+everest&image_type=photo
 
 ## Wireframes
@@ -49,63 +45,84 @@ The MVP will feature 9 hard-coded mountain destinations and will call on the fun
 
 ## React Component Hierarchy
 
-App
 
-|__ Assets/
+App (Src)
 
-|__ Components/
+|__ assets/
 
-      |__ Header
+      |__ data-tests
 
-      |__ RenderFundraiser
+      |__ fonts
 
-      |__ RenderWeather
+      |__ graphics
 
-      |__ RenderTreks
+      |__ images
 
-      |__ RenderClimbs
+      |__ mockups
 
-      |__ Footer
+|__ components/
+     
+      |__ Header.jsx
+      
+      |__ Hero.jsx
+
+      |__ CTA.jsx
+
+      |__ Footer.jsx
+
+      |__ Fundraiser.jsx
+
+      |__ Weather.jsx
+
 
 |__ Pages/
 
-      |__ Landing
+      |__ Landing.jsx
+      
+      |__ Destinations.jsx
 
-            |__ Mount Everest
+            |__ MountEverest.jsx
 
-            |__ Mount Everest Base Camp
+            |__ MountEverestBaseCamp.jsx
 
-            |__ Aconcagua
+            |__ Aconcagua.jsx
 
-            |__ Mount Denali
+            |__ MountDenali.jsx
 
-            |__ Mount Kilimanjaro
+            |__ MountKilimanjaro.jsx
 
-            |__ Mount Elbrus
+            |__ MountElbrus.jsx
 
-            |__ Vinson Massif
+            |__ VinsonMassif.jsx
 
-            |__ Puncak Jaya (Carstenz)
+            |__ PuncakJaya.jsx (Carstenz Pyramid)
 
-            |__ Mount Blanc
+            |__ MountBlanc.jsx
 
-            |__ Mount Kosciuszko
+            |__ MountKosciuszko.jsx
 
-      |__ About
+      |__ About.jsx
 
-            |__ Get Involved
+            |__ Get Involved.jsx
 
-      |__ Contact
+      |__ Contact.jsx
 
-|__ Services/
+|__ services/
+
+      |__ fundraiser.js
+      
+      |__ weather.js
+
+      |__ pix.js
+
 
 
 ## Functional Components
 
 | Component | Description | 
 | --- | :---: | 
-| Header (Function) | This will render the header, containing the main navigation. | 
-| Footer (Function) | This will render the sticky footer, containing the destinations. | 
+| Header (Function) | This will render the header. | 
+| Footer (Function) | This will render the footer. | 
 | RenderFundraiser (Function) | This will render the response data from the Fundraise.com API. | 
 | RenderWeather (Function) | This will render the response data from the DarkSky API. |
 | Pages | Page renders will be included in a seperate repository for establishing future habits and assisting in component organization. | 
