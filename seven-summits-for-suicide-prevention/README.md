@@ -74,6 +74,10 @@ App (Src)
 
       |__ Weather.jsx
 
+|__ ui-modules/
+     
+      |__ ProgressIndicatingBar
+
 
 |__ Pages/
 

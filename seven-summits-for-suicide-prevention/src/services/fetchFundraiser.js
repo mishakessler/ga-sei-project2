@@ -7,17 +7,6 @@ const fetchFundraiser = async () => {
   return response.data.fundraiser;
 }
 
-// this.state.fundraiser
-//   .description
-//   .goal
-//   .headerimage
-//   .id
-//   .name
-//   .organization.url
-//   .total
-//   .url
-
-
 export {
   fetchFundraiser,
 }

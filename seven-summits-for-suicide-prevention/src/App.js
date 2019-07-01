@@ -1,23 +1,27 @@
 import React from 'react';
 
-import './App.css';
-import { Dimmer, Loader, Progress } from 'semantic-ui-react'
-
-// import Header from './components/Header'
-// import Hero from './components/Hero'
-// import Footer from './components/Footer'
+import Header from './components/Header'
+import Hero from './components/Hero'
 import Fundraiser from './components/Fundraiser';
-// import Weather from './components/Weather'
+import Weather from './components/Weather'
+import CallToAction from './components/CallToAction'
+import Footer from './components/Footer'
 
 import { fetchFundraiser } from './services/fetchFundraiser';
 import { fetchWeather } from './services/fetchWeather';
 
+import './App.css';
+import { Dimmer, Loader, Progress } from 'semantic-ui-react'
+
 export default class App extends React.Component {
   constructor() {
     super()
+
     this.state = {
       fundraiser: null,
       weather: null,
+      latitude: null,
+      longitude: null,
     }
   }
 
@@ -26,7 +30,7 @@ export default class App extends React.Component {
     const weather = await fetchWeather();
     this.setState({
       fundraiser: fundraiser,
-      weather: weather
+      weather: weather,
     })
   }
 
@@ -35,10 +39,23 @@ export default class App extends React.Component {
     const { weather } = this.state;
     return (
       <div className="App" >
-        <h1>Seven Summits for Suicide Prevention</h1>
-        <h3>{fundraiser && fundraiser.name}</h3>
-        <p>{weather && weather.daily.summary}</p>
-        <Fundraiser />
+        <div className="header">
+          <Header />
+        </div>
+        <div className="destination">
+          <Hero />
+          <Fundraiser />
+          <Weather
+            latitude={this.state.latitude}
+            longitude={this.state.longitude}
+          />
+          <h4>{fundraiser && fundraiser.name}</h4>
+          <p>{weather && weather.daily.summary}</p>
+        </div>
+        <div className="footer">
+          <CallToAction />
+          <Footer />
+        </div>
       </div>
     );
   }
