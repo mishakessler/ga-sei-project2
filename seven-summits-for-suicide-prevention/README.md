@@ -66,13 +66,13 @@ App (Src)
       
       |__ Hero.jsx
 
-      |__ CTA.jsx
-
-      |__ Footer.jsx
-
       |__ Fundraiser.jsx
 
       |__ Weather.jsx
+
+      |__ CTA.jsx
+
+      |__ Footer.jsx
 
 |__ ui-modules/
      
@@ -83,31 +83,29 @@ App (Src)
 
       |__ Landing.jsx
       
-      |__ Destinations.jsx
+      |__ Destination.jsx
 
-            |__ MountEverest.jsx
+            |__ MountEverest
 
-            |__ MountEverestBaseCamp.jsx
+            |__ MountEverestBaseCamp
 
-            |__ Aconcagua.jsx
+            |__ Aconcagua
 
-            |__ MountDenali.jsx
+            |__ MountDenali
 
-            |__ MountKilimanjaro.jsx
+            |__ MountKilimanjaro
 
-            |__ MountElbrus.jsx
+            |__ MountElbrus
 
-            |__ VinsonMassif.jsx
+            |__ VinsonMassif
 
-            |__ PuncakJaya.jsx (Carstenz Pyramid)
+            |__ PuncakJaya (Carstenz Pyramid)
 
-            |__ MountBlanc.jsx
+            |__ MountBlanc
 
-            |__ MountKosciuszko.jsx
+            |__ MountKosciuszko
 
-      |__ About.jsx
-
-            |__ Get Involved.jsx
+      |__ Get Involved.jsx
 
       |__ Contact.jsx
 

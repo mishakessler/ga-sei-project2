@@ -3,18 +3,11 @@ import { fetchFundraiser } from '../services/fetchFundraiser'
 import ProgressExampleIndicating from '../ui-modules/ProgressExampleIndicating'
 
 export default class Fundraiser extends React.Component {
-  constructor(props) {
-    super(props);
-
-    this.state = {
-      percent: 89,
-    }
-  }
-
   render() {
     return (
       <div>
-        <ProgressExampleIndicating percent={this.state.percent} />
+        <ProgressExampleIndicating percent={this.props.percent} />
+        <p>The fundraiser is at nearly {this.props.percent}% of its original goal!</p>
       </div>
     )
   }

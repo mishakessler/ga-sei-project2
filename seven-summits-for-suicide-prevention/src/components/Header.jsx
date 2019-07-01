@@ -9,8 +9,8 @@ export default class Header extends React.Component {
         <img src={Logomark} />
         <div className="header-nav">
           <Link to="/">Home</Link>
-          <Link to="/summits">Summits</Link>
-          <Link to="/about">About</Link>
+          <Link to="/destinations">Destinations</Link>
+          <Link to="/get-involved">Get Involved</Link>
           <Link to="/contact">Contact</Link>
         </div>
       </div>

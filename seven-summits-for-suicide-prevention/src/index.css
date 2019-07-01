@@ -1,13 +1,3 @@
-@font-face {
-  font-family: 'beyond_the_mountains';
-  src: local('beyond_the_mountains'), url(./assets/fonts/beyond_the_mountains.otf) format('otf');
-}
-
-@font-face {
-  font-family: 'LocalBreweryFour';
-  src: local('LocalBreweryFour'), url(./assets/fonts/LocalBreweryFour.otf) format('otf');
-}
-
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
