@@ -123,13 +123,18 @@ App (Src)
 
 ## Functional Components
 
-| Component | Description | 
-| --- | :---: | 
-| Header (Function) | This will render the header. | 
-| Footer (Function) | This will render the footer. | 
-| RenderFundraiser (Function) | This will render the response data from the Fundraise.com API. | 
-| RenderWeather (Function) | This will render the response data from the DarkSky API. |
-| Pages | Page renders will be included in a seperate repository for establishing future habits and assisting in component organization. | 
+| Component | Description | Time Required |
+| --- | :---: | --- |
+| App.jsx (Class) | This will render the site with conditional/route rendering. | ... |
+| Header.jsx (Function) | This will render the header and header navigation. | Completed |
+| Hero.jsx (Class) | This will take location props, pass to FetchPix, and render the response image data from the Pixabay API. | 30 Minutes |
+| FetchPix.js (Function) | This will take the location props and return the response data image from Pixabay. | Completed |
+| CallToAction.jsx (Function) | This will render a viewer CTA to donate, get involved, etc. | 30 Minutes |
+| Footer.jsx (Function) | This will render the footer copyright information, IP credit, and footer navigation. | 30 Minutes |
+| Fundraiser.jsx (Class) | This will take location props, pass to FetchFundraiser, and return the data. | ... |
+| FetchFundraiser.js (Function) | This will take the location props and return the response data from the Fundraise.com API. | Completed |
+| Weather.jsx (Class) | This will take the location props, pass to FetchWeather, and return the data. | ... |
+| FetchWeather.js (Function) | This will render the response data from the DarkSky API. | Completed |
 
 
 <!-- ## Time Frames
