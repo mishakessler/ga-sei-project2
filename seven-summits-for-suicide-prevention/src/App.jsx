@@ -44,7 +44,8 @@ export default class App extends React.Component {
         </div>
         <div className="destination">
           <Hero />
-          <Fundraiser />
+          <Fundraiser
+            fundraiser={this.state.fundraiser}/>
           <Weather
             latitude={this.state.latitude}
             longitude={this.state.longitude}

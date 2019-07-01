@@ -7,10 +7,7 @@ const baseURL = `https://pixabay.com/api/?${key}&q=${queryURL}&image_type=photo`
 
 const fetchPix = async () => {
   const response = await axios.get(`${baseURL}`);
-  debugger;
   return response.data;
-  debugger;
-  console.log(response.data)
 }
 
 export {
