@@ -11,9 +11,9 @@ export default class Destination extends React.Component {
     super(props);
 
     this.state = {
-      fundraiser: null,
-      weather: null,
-      pix: null,
+      fundraiser: {},
+      weather: {},
+      pix: {},
     }
   }
 
@@ -34,18 +34,44 @@ export default class Destination extends React.Component {
     })
   }
 
+  async componentDidUpdate(prevProps) {
+    if (prevProps.summit !== this.props.summit) {
+      const fundraiserID = this.props.summit.fundraiserID;
+      const fundraiser = await fetchFundraiser(fundraiserID);
+
+      const weatherLocation = `${this.props.summit.latitude},${this.props.summit.longitude}`;
+      const weather = await fetchWeather(weatherLocation);
+
+      const pixQuery = this.props.summit.name;
+      const pix = await fetchPix(pixQuery);
+
+      this.setState({
+        fundraiser: fundraiser,
+        weather: weather,
+        pix: pix,
+      })
+    }
+  }
+
   render() {
+    const { fundraiser } = this.state;
+    const { weather } = this.state;
+    const { pix } = this.state;
+
     return (
       <>
-        <div className="destination">
-          {/* <Hero pix={this.state.pix} /> */}
-          {/* <div id="progressBar">
+        <div className="hero">
+
+        </div>
+        <div className="summit-info">
+          {this.props.summit.altitude}
+        </div>
+        <div className="fundraiser-info">
           <Progress percent={fundraiser.percent} indicating />
-        </div> */}
-          <p>The summit's elevation is {this.props.summit.altitude}.</p>
-          <p>{this.state.weather.daily.summary}</p>
-          {/* <p>The weather is {this.props.weather.daily.summary}.</p> */}
-          <p>The fundraiser by {this.state.fundraiser.organization.name} has raised {this.state.fundraiser.total}.</p>
+          <p>With an original goal of ${fundraiser && fundraiser.goal}, {fundraiser.name} has raised ${fundraiser.total}!</p>
+        </div>
+        <div className="learn-more">
+          <p>The weather is {weather.daily && weather.daily.summary}.</p>
         </div>
       </>
     )
