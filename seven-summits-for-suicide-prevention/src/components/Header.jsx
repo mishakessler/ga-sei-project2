@@ -6,7 +6,7 @@ export default class Header extends React.Component {
   render() {
     return (
       <div className="header">
-        <img src={Logomark} />
+        <img src={Logomark} alt="Seven Summits for Suicide Prevention Logomark" />
         <div className="header-nav">
           <Link to="/">Home</Link>
           <Link to="/destinations">Destinations</Link>
