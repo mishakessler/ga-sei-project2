@@ -12,7 +12,7 @@ html {
 
 
 .header {
-  height: 80px;
+  height: 70px;
   display: flex;
   position: fixed;
   background: linear-gradient(
@@ -29,12 +29,12 @@ html {
 }
 
 .header img {
-  max-height: 60px;
+  max-height: 50px;
 }
 
 .header-nav {
   width: 80vw;
-  padding: 15px;
+  padding: 12px;
   float: right;
   text-align: right;
 }
@@ -52,7 +52,7 @@ html {
   margin-left: 10px;
   border-radius: 5px;
   color: white;
-  font-size: 1.2em;
+  font-size: 1.1em;
   text-transform: uppercase;
   transition: ease-in-out .5s;
   -moz-transition: ease-in-out .5s;
@@ -168,10 +168,6 @@ html {
 
 /********************  Content Area  ********************/
 
-#page-info {
-  height: 50vh;
-}
-
 .summit-info {
   max-width: 800px;
   margin: -50px auto 20px auto;
@@ -181,14 +177,17 @@ html {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
 
-.summit-info div {
+.blurbs-container {
   display: inline-flex;
-
 }
 
 .blurb-column {
-  display: block;
-  
+  display: block !important;
+}
+
+#page-info {
+  height: 50vh;
+  max-width: 1000px;
 }
 
 .fundraiser-info {
@@ -204,6 +203,31 @@ html {
   border-radius: 10px;
   color: white;
   background: rgba(34, 144, 147, 1)
+}
+
+.learn-more {
+  margin-top: 40px;
+}
+
+.learn-more a {
+  padding: 8px 10px;
+  border-radius: 5px;
+  color: rgb(34, 143, 147);
+  border: 1px solid rgb(34, 143, 147);
+  transition: ease-in-out .5s;
+  -moz-transition: ease-in-out .5s;
+  -o-transition: ease-in-out .5s;
+  -webkit-transition: ease-in-out .5s;
+}
+
+.learn-more a:hover {
+  background-color: rgb(34, 143, 147);
+  color: white;
+  border: 1px solid white;
+  transition: ease-in-out .5s;
+  -moz-transition: ease-in-out .5s;
+  -o-transition: ease-in-out .5s;
+  -webkit-transition: ease-in-out .5s;
 }
 
 
@@ -288,6 +312,7 @@ html {
 
 .footer-nav ul {
   list-style: none;
+  padding: 0;
 }
 
 .footer-nav ul li {
@@ -297,6 +322,7 @@ html {
 
 .footer-nav ul li a {
   color: white;
+  text-transform: uppercase;
   padding: 5px 8px;
   border-radius: 5px;
   transition: ease-in-out .5s;
@@ -360,22 +386,69 @@ html {
 }
 
 @media screen and (max-width: 980px) {
-
-}
-
-
-@media screen and (max-width: 769px) {
+  .header {
+    height: 65px;
+  }
 
   .header-logo {
     display: none;
   }
 
   .header-nav {
+    width: 100vw;
+    text-align: center;
+  }
+
+  .header-nav ul {
+    margin: 10px;
+    padding: 0;
+  }
+
+  .header-nav ul li:first-child {
     display: none;
   }
 
+  .header-nav ul li a {
+    margin: 5px;
+  }
+
   .hero h2 {
-    margin: 15px auto 50px auto;
+    margin-top: 10vh;
+  }
+  
+  .footer-nav ul {
+    margin: 0 auto;
+  }
+
+  .footer-nav ul li {
+    display: block;
+    margin: 15px;
+  }
+
+  .summit-info {
+    margin: -20px 20px 20px 20px;
+  }
+
+  .fundraiser-progress {
+    margin: 20px;
+
+  }
+}
+
+
+@media screen and (max-width: 769px) {
+  .header-nav ul li {
+    display: none;
+  }
+
+  .header-nav ul li:last-child {
+    display: unset;
+    margin: 0;
+  }
+
+  .hero h2 {
+    margin-top: 50px;
+    margin-bottom: 30px;
   }
 
   .hero img {
@@ -384,11 +457,23 @@ html {
     max-width: 80vw;
   }
 
-  .summit-info {
-    margin: -20px 10px 20px 10px;
-  }
 }
 
 @media screen and (max-width: 480px) {
+  .header {
+    height: 60px;
+  }
 
+  .header-nav ul {
+    margin-top: 5px;
+    padding-left: 0;
+  }
+
+  .blurbs-container {
+    display: block;
+  }
+
+  .blurb-column {
+    margin-top: 20px;
+  }
 }

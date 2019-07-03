@@ -15,7 +15,7 @@ export default class Header extends React.Component {
             <li><Link to="/destinations" className="menu-button">Destinations</Link></li>
             <li><Link to="/get-involved" className="menu-button">Get Involved</Link></li>
             <li><Link to="/contact" className="menu-button">Contact</Link></li>
-            <li><Link to="https://www.fundraise.com/seven-summits-for-suicide-prevention/" id="sponsor-button">Sponsor Our Charity</Link></li>
+            <li><a href="https://www.fundraise.com/seven-summits-for-suicide-prevention/" target="_blank" id="sponsor-button">Sponsor Our Charity</a></li>
           </ul>
         </div>
       </div>

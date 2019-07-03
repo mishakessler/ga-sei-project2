@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 import { fetchFundraiser } from '../services/fetchFundraiser'
 import { fetchWeather } from '../services/fetchWeather'
@@ -68,7 +69,7 @@ export default class Destination extends React.Component {
         </div>
         <div className="summit-info">
           <h3><em>Did you know?</em></h3>
-          <div>
+          <div className="blurbs-container">
             <div className="blurb-column">
               <Icon name="cloud" size="huge" /><br></br>
               <p>The summit rises to <span>{this.props.summit.altitude}</span> feet above sea level.</p>
@@ -92,8 +93,13 @@ export default class Destination extends React.Component {
             <Progress percent={Math.round((fundraiser.total / fundraiser.goal) * 100)} indicating inverted />
             <p>With an original goal of ${fundraiser && fundraiser.goal}, {fundraiser.name} has raised ${fundraiser.total}, nearly <b>{Math.round((fundraiser.total / fundraiser.goal) * 100)} percent</b>!</p>
           </div>
-        </div>
-        <div className="form">
+          <div className="fundraiser-recipient">
+            <h3>Fundraiser Recipient:</h3>
+            <p>{this.props.summit.recipient}</p>
+          </div>
+          <div className="learn-more">
+            <a href="https://www.fundraise.com/seven-summits-for-suicide-prevention/" target="_blank">Learn More About Our Fundraiser</a>
+          </div>
         </div>
       </>
     )
