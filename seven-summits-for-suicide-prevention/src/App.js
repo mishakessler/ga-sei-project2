@@ -1,6 +1,6 @@
 import React from 'react';
-import { Link, Route, withRouter } from 'react-router-dom'
-import { Dimmer, Loader, Progress } from 'semantic-ui-react'
+import { Route } from 'react-router-dom'
+
 
 import Landing from './pages/Landing'
 import GetInvolved from './pages/GetInvolved'

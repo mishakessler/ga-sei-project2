@@ -1,5 +1,4 @@
 import React from 'react';
-import LogomarkStarburst from '../assets/graphics/LogomarkStarburst.png';
 import { Icon } from 'semantic-ui-react'
 
 export default class GetInvolved extends React.Component {

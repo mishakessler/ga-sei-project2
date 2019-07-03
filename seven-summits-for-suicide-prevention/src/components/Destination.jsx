@@ -1,11 +1,8 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 
 import { fetchFundraiser } from '../services/fetchFundraiser'
 import { fetchWeather } from '../services/fetchWeather'
 // import { fetchPix } from '../services/fetchPix'
-
-// import LoaderInlineCentered from '../ui-modules/LoaderInlineCentered'
 
 import { Progress, Icon } from 'semantic-ui-react'
 
@@ -23,10 +20,8 @@ export default class Destination extends React.Component {
   async componentDidMount() {
     const fundraiserID = this.props.summit.fundraiserID;
     const fundraiser = await fetchFundraiser(fundraiserID);
-
     const weatherLocation = `${this.props.summit.latitude},${this.props.summit.longitude}`;
     const weather = await fetchWeather(weatherLocation);
-
     // const pixQuery = this.props.summit.name;
     // const pix = await fetchPix(pixQuery);
 

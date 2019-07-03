@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom'
-import { Icon } from 'semantic-ui-react'
 
 import Aconcagua from '../assets/graphics/Aconcagua.png'
 import Denali from '../assets/graphics/Denali.png'
