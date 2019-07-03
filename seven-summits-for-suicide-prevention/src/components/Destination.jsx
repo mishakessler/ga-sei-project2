@@ -4,7 +4,7 @@ import { fetchFundraiser } from '../services/fetchFundraiser'
 import { fetchWeather } from '../services/fetchWeather'
 // import { fetchPix } from '../services/fetchPix'
 
-import { Progress, Icon } from 'semantic-ui-react'
+import { Progress, Icon, Button, Modal } from 'semantic-ui-react'
 
 export default class Destination extends React.Component {
   constructor(props) {
@@ -87,6 +87,11 @@ export default class Destination extends React.Component {
             <h3>Fundraiser Progress:</h3>
             <Progress percent={Math.round((fundraiser.total / fundraiser.goal) * 100)} indicating inverted />
             <p>With an original goal of ${fundraiser && fundraiser.goal}, {fundraiser.name} has raised ${fundraiser.total}, nearly <b>{Math.round((fundraiser.total / fundraiser.goal) * 100)} percent</b>!</p>
+            <Modal trigger={<Button>View Video</Button>} basic size='small'>
+              <Modal.Content>
+                <iframe id="video-modal" width="700" height="400" src="https://www.youtube.com/embed/qMkOxHhQhys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </Modal.Content>
+            </Modal>
           </div>
           <div className="fundraiser-recipient">
             <h3>Fundraiser Recipient:</h3>

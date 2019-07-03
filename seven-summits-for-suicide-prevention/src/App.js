@@ -28,7 +28,7 @@ export default class App extends React.Component {
           altitude: '22,837 ft',
           information: "Aconcagua, with a summit elevation of 22,837 feet (6,960.8 metres), is the highest mountain in both the Southern and Western Hemispheres, as well as the tallest mountain outside of Asia.",
           recipient: "Want to nominate an organization for this Seven Summits for Suicide Prevention fundraiser? Let us know!",
-          heroImage: "https://i.imgur.com/9yPJ2PJ.png"
+          heroImage: "https://i.imgur.com/9yPJ2PJ.png",
         },
 
         blanc: {
@@ -95,6 +95,7 @@ export default class App extends React.Component {
           information: "Mount Kilimanjaro, with its three volcanic cones, Kibo, Mawenzi, and Shira, is a dormant volcano in Tanzania. It is the highest mountain in Africa, with its summit at 19,341 feet (5,895 metres) above sea level.",
           recipient: "Six Feet Over and Live Through This",
           heroImage: 'https://i.imgur.com/URUWYE8.png',
+          video: "https://youtu.be/qMkOxHhQhys"
         },
 
         kosciuszko: {
