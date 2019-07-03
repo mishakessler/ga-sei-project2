@@ -17,6 +17,9 @@ export default class Landing extends React.Component {
         </div>
         <div id="scroll-anchor">
         </div>
+        <div className="summit-info">
+
+        </div>
       </div>
     )
   }

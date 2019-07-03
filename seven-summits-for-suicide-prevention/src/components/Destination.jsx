@@ -4,6 +4,8 @@ import { fetchFundraiser } from '../services/fetchFundraiser'
 import { fetchWeather } from '../services/fetchWeather'
 // import { fetchPix } from '../services/fetchPix'
 
+import LoaderInlineCentered from '../ui-modules/LoaderInlineCentered'
+
 import { Progress, Icon } from 'semantic-ui-react'
 
 export default class Destination extends React.Component {
