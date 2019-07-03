@@ -1,16 +1,21 @@
 import React from 'react';
 import LogomarkStarburst from '../assets/graphics/LogomarkStarburst.png';
+import { Icon } from 'semantic-ui-react'
 
 export default class Landing extends React.Component {
   render() {
     return (
       <div id="landingPage">
         <div className="hero">
+          <h2>Welcome To</h2>
           <img src={LogomarkStarburst} alt="Starburst Logomark" />
-          {/* <a href="#scroll-anchor">scroll down</a> */}
+        </div>
+        <div className="scroll-link">
+          <a href="#scroll-anchor">
+            <Icon color='white' name='angle double down' size='big' />
+          </a>
         </div>
         <div id="scroll-anchor">
-
         </div>
       </div>
     )

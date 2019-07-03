@@ -2,7 +2,7 @@ import React from 'react'
 
 import { fetchFundraiser } from '../services/fetchFundraiser'
 import { fetchWeather } from '../services/fetchWeather'
-import { fetchPix } from '../services/fetchPix'
+// import { fetchPix } from '../services/fetchPix'
 
 import { Progress, Icon } from 'semantic-ui-react'
 
@@ -13,7 +13,7 @@ export default class Destination extends React.Component {
     this.state = {
       fundraiser: {},
       weather: {},
-      pix: {},
+      // pix: {},
     }
   }
 
@@ -24,13 +24,13 @@ export default class Destination extends React.Component {
     const weatherLocation = `${this.props.summit.latitude},${this.props.summit.longitude}`;
     const weather = await fetchWeather(weatherLocation);
 
-    const pixQuery = this.props.summit.name;
-    const pix = await fetchPix(pixQuery);
+    // const pixQuery = this.props.summit.name;
+    // const pix = await fetchPix(pixQuery);
 
     this.setState({
       fundraiser: fundraiser,
       weather: weather,
-      pix: pix,
+      // pix: pix,
     })
   }
 
@@ -43,12 +43,12 @@ export default class Destination extends React.Component {
       const weather = await fetchWeather(weatherLocation);
 
       const pixQuery = this.props.summit.name;
-      const pix = await fetchPix(pixQuery);
+      // const pix = await fetchPix(pixQuery);
 
       this.setState({
         fundraiser: fundraiser,
         weather: weather,
-        pix: pix,
+        // pix: pix,
       })
     }
   }
@@ -56,22 +56,36 @@ export default class Destination extends React.Component {
   render() {
     const { fundraiser } = this.state;
     const { weather } = this.state;
-    const { pix } = this.state;
+    // const { pix } = this.state;
 
     return (
       <>
         <div className="hero">
-
+          <img src={this.props.summit.heroImage} alt="Destination Image" />
+          <p>{this.props.summit.information}</p>
         </div>
         <div className="summit-info">
-          {this.props.summit.altitude}
-        </div>
+          <h3><em>Did you know?</em></h3>
+          <div>
+            <div className="blurb-column">
+              <Icon name="cloud" size="huge" /><br></br>
+              <p>The summit rises to <span>{this.props.summit.altitude}</span> feet above sea level.</p>
+            </div>
+            <div className="blurb-column">
+              <Icon name="sun" size="huge" /><br></br>
+              <p>Right now on the summit, it's <span>{weather.currently && weather.currently.apparentTemperature}</span> degrees.</p>
+            </div>
+            <div className="blurb-column">
+              <Icon name="tint" size="huge" /><br></br>
+              <p>Current wind gusts are reaching <span>{weather.currently && weather.currently.windGust}</span> miles per hour.</p>
+            </div>
+          </div >
+        </div >
         <div className="fundraiser-info">
           <Progress percent={fundraiser.percent} indicating />
           <p>With an original goal of ${fundraiser && fundraiser.goal}, {fundraiser.name} has raised ${fundraiser.total}!</p>
         </div>
         <div className="learn-more">
-          <p>The weather is {weather.daily && weather.daily.summary}.</p>
         </div>
       </>
     )

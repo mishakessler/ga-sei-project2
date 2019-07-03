@@ -1,13 +1,11 @@
 
 html {
+  text-align: center;
   scroll-behavior: smooth;
-}
-
-.smooth-transition {
-  animation: ease-in-out .25s;
-  -moz-animation: ease-in-out .25s;
-  -o-animation: ease-in-out .25s;
-  -webkit-animation: ease-in-out .25s;
+  transition: ease-in-out .5s;
+  -moz-transition: ease-in-out .5s;
+  -o-transition: ease-in-out .5s;
+  -webkit-transition: ease-in-out .5s;
 }
 
 .header {
@@ -34,22 +32,86 @@ html {
   text-align: right;
 }
 
+.header-nav ul {
+  list-style: none;
+}
+
+.header-nav ul li {
+  display: inline;
+}
+
+.header-nav ul li a {
+  padding: 8px 10px;
+  margin-left: 10px;
+  border-radius: 5px;
+  color: white;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  transition: ease-in-out .5s;
+  -moz-transition: ease-in-out .5s;
+  -o-transition: ease-in-out .5s;
+  -webkit-transition: ease-in-out .5s;
+}
+
+.header-nav ul li a:hover {
+  opacity: .8;
+  transition: ease-in-out .5s;
+  -moz-transition: ease-in-out .5s;
+  -o-transition: ease-in-out .5s;
+  -webkit-transition: ease-in-out .5s;
+}
+
+#sponsor-button {
+  color: white;
+  border: 1px solid white;
+  transition: ease-in-out .5s;
+  -moz-transition: ease-in-out .5s;
+  -o-transition: ease-in-out .5s;
+  -webkit-transition: ease-in-out .5s;
+}
+
+#sponsor-button:hover {
+  background-color: white;
+  color: rgb(34, 143, 147);
+  border: 1px solid rgb(34, 143, 147);
+  transition: ease-in-out .5s;
+  -moz-transition: ease-in-out .5s;
+  -o-transition: ease-in-out .5s;
+  -webkit-transition: ease-in-out .5s;
+}
+
 .hero {
   display: block;
   padding: 5vh;
   margin: 0 auto;
+  min-height: 50vh;
+  max-height: 90vh;
   text-align: center;
   background:
   linear-gradient(
-    rgba(255,255,255, 0), 
-    rgba(255,255,255, 0.07),
-    rgba(255,255,255, 0.12),
-    rgba(255,255,255, 0.25),
-    rgba(255,255,255, 1)
+  rgba(34, 144, 147, 0.2), 
+  rgba(34, 144, 147, 0.99)
   ),
   url('./assets/images/quietfrontier.jpg');
   background-size: cover;
-  background-position: center bottom;
+  background-position: center center;
+}
+
+.hero h2 {
+  margin-top: 8vh;
+  font-family: 'Permanent Marker';
+  font-weight: lighter;
+  text-transform: lowercase;
+  color: white;
+  font-size: 2.5em;
+  opacity: .95;
+}
+
+.hero p {
+  max-width: 800px;
+  margin: 2vh auto;
+  color: white;
+  font-size: 1.2em;
 }
 
 .hero img {
@@ -57,36 +119,123 @@ html {
   margin: 1vw;
   max-width: 70vw;
   max-height: 70vh;
-  image-rendering: optimizeQuality;
 }
  
-.hero a {
-  margin-top: 25px;
+.scroll-link {
+  height: 0;
+  padding: 5px;
+  text-align: center;
+  transform: translateY(-50px);
 }
+
+.scroll-link a {
+  color: white;
+}
+
+.summit-info {
+  max-width: 800px;
+  margin: -50px auto 20px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+
+}
+
+.summit-info div {
+  display: inline-flex;
+
+}
+
+.blurb-column {
+  display: block;
+  
+}
+
+.fundraiser-info {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+
+}
+
 
 .footer {
   text-align: center;
+  background: linear-gradient(
+    rgba(34, 144, 147), 
+    rgba(36, 105, 153)
+  )
 }
 
-#footer-nav {
+.footer-nav {
   padding: 5px;
+
 }
 
-#footer-nav ul {
+.footer-nav ul {
   list-style: none;
-  display: inline;
 }
 
-#footer-nav ul li {
+.footer-nav ul li {
+  display: inline;
   padding: 5px 8px;
   margin: 15px;
 }
 
-#copyright {
-  padding: 5px;
+.footer-nav ul li a {
+  color: white;
+  transition: ease-in-out .5s;
+  -moz-transition: ease-in-out .5s;
+  -o-transition: ease-in-out .5s;
+  -webkit-transition: ease-in-out .5s;
 }
 
-#credit {
-  padding: 5px;
+.footer-nav ul li a:hover {
+  opacity: .8;
+  transition: ease-in-out .5s;
+  -moz-transition: ease-in-out .5s;
+  -o-transition: ease-in-out .5s;
+  -webkit-transition: ease-in-out .5s;
 }
+
+#copyright, #credit {
+  padding: 15px;
+  color: white;
+}
+
+#copyright a, #credit a {
+  color: white;
+  text-decoration: underline;
+}
+
+#copyright img {
+  max-height: 100px;
+}
+
+#copyright-shadow {
+  background: linear-gradient(
+    rgba(36, 105, 153, 0.3),
+    rgba(34, 144, 147, 0.3)
+  );
+  width: 250px;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 5px;
+  transition: ease-in-out 1s;
+  -moz-transition: ease-in-out 1s;
+  -o-transition: ease-in-out 1s;
+  -webkit-transition: ease-in-out 1s;
+}
+
+#copyright-shadow:hover {
+  box-shadow: 5px 5px 8px rgba(245, 245, 245, 0.75);
+  transform: translate(-10px, -10px);
+  transition: ease-in-out .5s;
+  -moz-transition: ease-in-out .5s;
+  -o-transition: ease-in-out .5s;
+  -webkit-transition: ease-in-out .5s;
+}
+
+
 

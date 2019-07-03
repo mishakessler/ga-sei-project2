@@ -11,10 +11,11 @@ export default class Header extends React.Component {
         </div>
         <div className="header-nav">
           <ul>
-            <Link to="/">Home</Link>
-            <Link to="/destinations">Destinations</Link>
-            <Link to="/get-involved">Get Involved</Link>
-            <Link to="/contact">Contact</Link>
+            <li><Link to="/" className="menu-button">Home</Link></li>
+            <li><Link to="/destinations" className="menu-button">Destinations</Link></li>
+            <li><Link to="/get-involved" className="menu-button">Get Involved</Link></li>
+            <li><Link to="/contact" className="menu-button">Contact</Link></li>
+            <li><Link to="https://www.fundraise.com" id="sponsor-button">Sponsor Our Charity</Link></li>
           </ul>
         </div>
       </div>
