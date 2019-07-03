@@ -8,7 +8,6 @@ import Destinations from './pages/Destinations'
 import Contact from './pages/Contact'
 
 import Header from './components/Header'
-import Hero from './components/Hero'
 import Destination from './components/Destination'
 import CallToAction from './components/CallToAction';
 import Footer from './components/Footer'
@@ -129,11 +128,10 @@ export default class App extends React.Component {
       <div className="App" >
         <div className="header">
           <Header />
-          <Hero />
         </div>
         <div className="displayArea">
-          <Route exact path="/" render={() => <Landing />} />
-          <Route path="/destinations" render={() => <Destinations />} />
+          <Route path="/" exact render={() => <Landing />} />
+          <Route path="/destinations" exact render={() => <Destinations />} />
           <Route
             path="/destinations/:summit"
             component={(props) => {
