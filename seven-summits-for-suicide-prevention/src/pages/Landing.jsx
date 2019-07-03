@@ -6,7 +6,7 @@ export default class Landing extends React.Component {
   render() {
     return (
       <div id="landingPage">
-        <div className="hero">
+        <div className="hero" id="home-hero">
           <h2>Welcome To</h2>
           <img src={LogomarkStarburst} alt="Starburst Logomark" />
         </div>
@@ -17,7 +17,7 @@ export default class Landing extends React.Component {
         </div>
         <div id="scroll-anchor">
         </div>
-        <div className="summit-info">
+        <div className="summit-info" id="page-info">
 
         </div>
       </div>

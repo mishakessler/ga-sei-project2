@@ -4,7 +4,7 @@ import { fetchFundraiser } from '../services/fetchFundraiser'
 import { fetchWeather } from '../services/fetchWeather'
 // import { fetchPix } from '../services/fetchPix'
 
-import LoaderInlineCentered from '../ui-modules/LoaderInlineCentered'
+// import LoaderInlineCentered from '../ui-modules/LoaderInlineCentered'
 
 import { Progress, Icon } from 'semantic-ui-react'
 
@@ -84,10 +84,16 @@ export default class Destination extends React.Component {
           </div >
         </div >
         <div className="fundraiser-info">
-          <Progress percent={fundraiser.percent} indicating />
-          <p>With an original goal of ${fundraiser && fundraiser.goal}, {fundraiser.name} has raised ${fundraiser.total}!</p>
+          <h2>We're {fundraiser && fundraiser.name}!</h2>
+          <h3>Want to lend us a hand?</h3>
+          <p><em>Fundraiser Info Placeholder</em></p>
+          <div className="fundraiser-progress">
+            <h3>Fundraiser Progress:</h3>
+            <Progress percent={Math.round((fundraiser.total / fundraiser.goal) * 100)} indicating inverted />
+            <p>With an original goal of ${fundraiser && fundraiser.goal}, {fundraiser.name} has raised ${fundraiser.total}, nearly <b>{Math.round((fundraiser.total / fundraiser.goal) * 100)} percent</b>!</p>
+          </div>
         </div>
-        <div className="learn-more">
+        <div className="form">
         </div>
       </>
     )
