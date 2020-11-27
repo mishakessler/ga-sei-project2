@@ -1,7 +1,6 @@
 import React from 'react';
 import { Route } from 'react-router-dom'
 
-
 import Landing from './pages/Landing'
 import GetInvolved from './pages/GetInvolved'
 import Destinations from './pages/Destinations'
@@ -29,6 +28,8 @@ export default class App extends React.Component {
           information: "Aconcagua, with a summit elevation of 22,837 feet (6,960.8 metres), is the highest mountain in both the Southern and Western Hemispheres, as well as the tallest mountain outside of Asia.",
           recipient: "Want to nominate an organization for this Seven Summits for Suicide Prevention fundraiser? Let us know!",
           heroImage: "https://i.imgur.com/9yPJ2PJ.png",
+          topoImage: ,
+          video: "https://youtu.be/qMkOxHhQhys"
         },
 
         blanc: {
@@ -40,6 +41,8 @@ export default class App extends React.Component {
           information: "Mont Blanc, meaning White Mountain, is the highest mountain in the Alps and the highest in Europe west of the Caucasus peaks of Russia and Georgia. It rises 15,774 feet (4,808 meters) above sea level and is ranked 11th in the world in topographic prominence.",
           recipient: "Want to nominate an organization for this Seven Summits for Suicide Prevention fundraiser? Let us know!",
           heroImage: 'https://i.imgur.com/LxM91M1.png',
+          topoImage: ,
+          video: "https://youtu.be/qMkOxHhQhys"
         },
 
         denali: {
@@ -51,6 +54,8 @@ export default class App extends React.Component {
           information: "Denali, also known as Mount McKinley, its former official name, is the highest mountain peak in North America, with a summit elevation of 20,310 feet (6,190 meters) above sea level. Denali is the third most prominent and third most isolated peak on Earth, after Mount Everest and Aconcagua.",
           recipient: "Want to nominate an organization for this Seven Summits for Suicide Prevention fundraiser? Let us know!",
           heroImage: 'https://i.imgur..com/hyfHglG.png',
+          topoImage: ,
+          video: "https://youtu.be/qMkOxHhQhys"
         },
 
         elbrus: {
@@ -62,6 +67,8 @@ export default class App extends React.Component {
           information: "Mount Elbrus is a dormant volcano in the Caucasus Mountains in Southern Russia, near the border with Georgia. It could be considered the highest mountain in Europe, notwithstanding that the Caucasus mountains are at the intersection of Europe and Asia, and it is the tenth most prominent peak in the world.",
           recipient: "Want to nominate an organization for this Seven Summits for Suicide Prevention fundraiser? Let us know!",
           heroImage: 'https://i.imgur.com/pFghSYW.png',
+          topoImage: ,
+          video: "https://youtu.be/qMkOxHhQhys"
         },
 
         everest: {
@@ -73,6 +80,8 @@ export default class App extends React.Component {
           information: "Mount Everest, known in Nepali as Sagarmatha (सगरमाथा) and in Tibetan as Chomolungma (ཇོ་མོ་གླང་མ), is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas. The current official elevation, recognized by China and Nepal, is 29,029 feet (8,848 meters).",
           recipient: "Want to nominate an organization for this Seven Summits for Suicide Prevention fundraiser? Let us know!",
           heroImage: 'https://i.imgur.com/ST4urOE.png',
+          topoImage: ,
+          video: "https://youtu.be/qMkOxHhQhys"
         },
 
         everestbasecamp: {
@@ -84,6 +93,8 @@ export default class App extends React.Component {
           information: "Everest Base Camp can refer to either of two base camps on opposite sides of Mount Everest. South Base Camp is in Nepal, at an altitude of 17,598 feet (5,364 metres), while North Base Camp is in Tibet at 16,900 feet (5,150 metres). These camps are rudimentary campsites that are used by mountain climbers as staging grounds during their ascent and descent. South Base Camp is used when climbing via the southeast ridge, while North Base Camp is used when climbing via the northeast ridge.",
           recipient: "Want to nominate an organization for this Seven Summits for Suicide Prevention fundraiser? Let us know!",
           heroImage: 'https://i.imgur.com/Lr9PKzq.png',
+          topoImage: ,
+          video: "https://youtu.be/qMkOxHhQhys"
         },
 
         kilimanjaro: {
@@ -95,6 +106,7 @@ export default class App extends React.Component {
           information: "Mount Kilimanjaro, with its three volcanic cones, Kibo, Mawenzi, and Shira, is a dormant volcano in Tanzania. It is the highest mountain in Africa, with its summit at 19,341 feet (5,895 metres) above sea level.",
           recipient: "Six Feet Over and Live Through This",
           heroImage: 'https://i.imgur.com/URUWYE8.png',
+          topoImage: ,
           video: "https://youtu.be/qMkOxHhQhys"
         },
 
@@ -107,6 +119,8 @@ export default class App extends React.Component {
           information: "Mount Kosciuszko is mainland Australia's highest mountain, at 7,310 feet (2,228 metres) above sea level. It is located on the Main Range of the Snowy Mountains in Kosciuszko National Park, part of the Australian Alps National Parks and Reserves, in New South Wales, Australia.",
           recipient: "Want to nominate an organization for this Seven Summits for Suicide Prevention fundraiser? Let us know!",
           heroImage: 'https://i.imgur.com/xxeafJF.png',
+          topoImage: ,
+          video: "https://youtu.be/qMkOxHhQhys"
         },
 
         puncakjaya: {
@@ -118,6 +132,8 @@ export default class App extends React.Component {
           information: "Puncak Jaya, or Carstensz Pyramid, is the highest summit of Mount Jayawijaya or Mount Carstensz in the the western central highlands of Papua Province, Indonesia. At 16,024 feet (4,884 metres) above sea level, Puncak Jaya is the highest mountain in Indonesia, on the island of New Guinea and in the greater Oceania, and the tallest island mountain on Earth.",
           recipient: "Want to nominate an organization for this Seven Summits for Suicide Prevention fundraiser? Let us know!",
           heroImage: 'https://i.imgur./MdiCMI3.png',
+          topoImage: ,
+          video: "https://youtu.be/qMkOxHhQhys"
         },
 
         vinsonmassif: {
@@ -129,6 +145,8 @@ export default class App extends React.Component {
           information: "Vinson Massif is a large mountain massif in Antarctica that is located about 750 miles (1,200 kilometres) from the South Pole. Mount Vinson is the highest peak in Antarctica at 16,050 ft (4,892 metres). As of February 2010, only 1,400 climbers have attempted to reach the top of Mount Vinson.",
           recipient: "Want to nominate an organization for this Seven Summits for Suicide Prevention fundraiser? Let us know!",
           heroImage: 'https://i.imgur.com/tCszU2G.png',
+          topoImage: ,
+          video: "https://youtu.be/qMkOxHhQhys",
         },
       }
     }
